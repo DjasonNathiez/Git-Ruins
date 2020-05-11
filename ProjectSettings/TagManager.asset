@@ -13,6 +13,7 @@ TagManager:
   - CameraEventShort
   - CameraEventLarge
   - Tutorial
+  - Camera Clamp
   layers:
   - Default
   - TransparentFX
@@ -26,7 +27,7 @@ TagManager:
   - WallJump
   - Trigger Layer
   - IgnoreTrigger Layer
-  - 
+  - Clamp Cam
   - 
   - 
   - 
@@ -47,6 +48,9 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Background
+    uniqueID: 2231519821
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
