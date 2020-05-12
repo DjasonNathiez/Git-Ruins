@@ -21,7 +21,7 @@ public class Activator : MonoBehaviour
     // Update is called once per frame
     private void Update()
     {
-        if (Input.GetKeyDown(KeyCode.A))
+        if (Input.GetKeyDown(KeyCode.B))
             activationInput = true;
         else
             activationInput = false;
