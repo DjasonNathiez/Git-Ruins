@@ -8,11 +8,11 @@ public class PlayerDeath : MonoBehaviour
     private GameObject currentPlayer;
 
 
-
     void Start()
     {
         respawnPoint = GameObject.FindWithTag("Respawn");
         currentPlayer = GameObject.Find("Character");
+        
     }
 
     // Update is called once per frame
@@ -24,11 +24,10 @@ public class PlayerDeath : MonoBehaviour
     void Death()
     {
         //play Death animation
+        respawnPoint.transform.position = new Vector3(respawnPoint.transform.position.x, respawnPoint.transform.position.y, 0);
 
         //Teleport the player GameObject to the respawn point location
-        currentPlayer = GameObject.FindWithTag("Player");
-        currentPlayer.transform.position = respawnPoint.transform.position;
-        
+        currentPlayer.transform.position = respawnPoint.transform.position;       
     }
 
 }

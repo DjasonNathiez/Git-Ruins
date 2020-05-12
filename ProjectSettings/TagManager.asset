@@ -10,10 +10,8 @@ TagManager:
   - DeathLimit
   - Barrier
   - Activator
-  - CameraEventShort
-  - CameraEventLarge
-  - Tutorial
-  - Camera Clamp
+  - CameraLow
+  - CameraLarge
   layers:
   - Default
   - TransparentFX
