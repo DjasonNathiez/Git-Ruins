@@ -6,11 +6,6 @@ public class CameraFollow : MonoBehaviour
 {
 
     private Transform playerTransform;
-
-    private GameObject CameraA;
-    private GameObject CameraB;
-    private GameObject CameraC;
-
     public float xMin;
     public float xMax;
     public float yMin;
@@ -19,9 +14,6 @@ public class CameraFollow : MonoBehaviour
     public void Start()
     {
         playerTransform = GameObject.Find("Character").transform;
-        CameraA = GameObject.Find("Main Camera");
-        CameraB = GameObject.Find("Camera Low");
-        CameraC = GameObject.Find("Camera Large");
     }
 
     private void LateUpdate()
@@ -35,34 +27,9 @@ public class CameraFollow : MonoBehaviour
 
         //clamp caméra
         transform.position = temp;
-
-        transform.position = new Vector3(
-            Mathf.Clamp(playerTransform.position.x, xMin, xMax),
-            Mathf.Clamp(playerTransform.position.y, yMin, yMax),
-            transform.position.z
-            );
+        float x = Mathf.Clamp(playerTransform.position.x, xMin, xMax);
+        float y = Mathf.Clamp(playerTransform.position.y, yMin, yMax);
+        transform.position = new Vector3(x, y, transform.position.z);
+            
     }
-
-    private void OnTriggerEnter2D(Collider2D collision) //camera switch MAIN > LOW > LARGE
-    {
-        if (collision.CompareTag("CameraLow"))
-        {
-            CameraA.SetActive(false);
-            CameraB.SetActive(true);
-            CameraC.SetActive(false);
-        }
-        else if (collision.CompareTag("CameraLarge"))
-        {
-            CameraA.SetActive(false);
-            CameraB.SetActive(false);
-            CameraC.SetActive(true);
-        }
-        else if (collision.CompareTag("MainCamera"))
-        {
-            CameraA.SetActive(true);
-            CameraB.SetActive(false);
-            CameraC.SetActive(false);
-        }
-    }
-
 }
