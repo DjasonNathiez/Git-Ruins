@@ -57,6 +57,13 @@ public class CustomCharacterController : MonoBehaviour
     RaycastHit2D[] rGroundCast;
     RaycastHit2D[] rWallCast;
 
+    Vector4 cameraInitialPosition;
+    public float shakeMagnitude = 0.05f;
+    public float shakeTime = 0.05f;
+    public Camera mainCamera;
+
+    public bool isGrounded;
+
     void Start()
     {
         playerSprite = gameObject.GetComponent<SpriteRenderer>();
@@ -78,6 +85,11 @@ public class CustomCharacterController : MonoBehaviour
         animator.SetFloat("Speed", Mathf.Abs(speedInfo));
         ClampVelocity();
 
+        if(isGrounded == true)
+        {
+            ShakeIt();
+        }
+       
     }
     
     void FixedUpdate()
@@ -267,11 +279,37 @@ public class CustomCharacterController : MonoBehaviour
             isFalling = false;
             unfreeze = false;
 
-            ///Ici, lignes de codes pour un screenShake à l'aterissage 
-
+            isGrounded = true;
         }
+
+
     }
-    
+
+    public void ShakeIt()
+    {
+        cameraInitialPosition = mainCamera.transform.position;
+        InvokeRepeating("StartCameraShaking", 0f, 0.005f);
+        Invoke("StopCameraShaking", shakeTime);
+    }
+
+    void StartCameraShaking()
+    {
+        
+        float cameraShakingOffsetX = Random.value * shakeMagnitude * 2 - shakeMagnitude;
+        float cameraShakingOffsetY = Random.value * shakeMagnitude * 2 - shakeMagnitude;
+        Vector3 cameraIntermadiatePosition = mainCamera.transform.position;
+        cameraIntermadiatePosition.x += cameraShakingOffsetX;
+        cameraIntermadiatePosition.y += cameraShakingOffsetY;
+        mainCamera.transform.position = cameraIntermadiatePosition;
+    }
+
+    void StopCameraShaking()
+    {
+        CancelInvoke("StartCameraShaking");
+        mainCamera.transform.position = cameraInitialPosition;
+        isGrounded = false;
+    }
+
     public IEnumerator Impulse()
     {
         //freeze position
