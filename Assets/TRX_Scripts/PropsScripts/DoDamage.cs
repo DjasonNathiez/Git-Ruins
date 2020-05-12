@@ -6,13 +6,13 @@ public class DoDamage :  MonoBehaviour
 {
     private GameObject player;
     private BoxCollider2D playerCollider;
-    private BoxCollider2D objectCollider;
+    private Collider2D objectCollider;
 
     private void Start()
     {
         player = GameObject.FindWithTag("Player");
         playerCollider = player.GetComponent<BoxCollider2D>();
-        objectCollider = gameObject.GetComponent<BoxCollider2D>();
+        objectCollider = gameObject.GetComponent<Collider2D>();
     }
 
     void OnCollisionEnter2D(Collision2D collision)

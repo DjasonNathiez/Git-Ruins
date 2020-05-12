@@ -9,7 +9,9 @@ public class Activator : MonoBehaviour
     private CircleCollider2D activatorCollider;
     bool activationInput;
     [Header("GameObjet associé")]
-    [SerializeField] GameObject associatedObject = null;
+    [SerializeField] GameObject associatedObject1 = null;
+    [SerializeField] GameObject associatedObject2 = null;
+    [SerializeField] GameObject associatedObject3 = null;
 
     private void Start()
     {
@@ -37,7 +39,10 @@ public class Activator : MonoBehaviour
     {
         if (activationInput && playerCollider.IsTouching(activatorCollider))
         {
-            associatedObject.SetActive(true);
+            associatedObject1.SetActive(true);
+            associatedObject2.SetActive(true);
+            associatedObject3.SetActive(true);
+
             Debug.Log("Activation");
         }
     }

@@ -220,10 +220,10 @@ public class CustomCharacterController : MonoBehaviour
         //WallJump
         else if (jumpInput && groundType == GroundType.wallJump)
         {
-           /* //Setup des raycasts pour détecter les murs de WallJump à gauche ou à droite
-            int wallHitsLeft = playerCollider.Raycast(Vector2.left, rWallCast, 1.3f, wallJumpLayer);
-            int wallHitsRight = playerCollider.Raycast(-Vector2.left, rWallCast, 1.3f, wallJumpLayer);
-            */
+            /* //Setup des raycasts pour détecter les murs de WallJump à gauche ou à droite
+             int wallHitsLeft = playerCollider.Raycast(Vector2.left, rWallCast, 1.3f, wallJumpLayer);
+             int wallHitsRight = playerCollider.Raycast(-Vector2.left, rWallCast, 1.3f, wallJumpLayer);
+             */
 
             //saut
             if (isLeftWallJump)
@@ -261,11 +261,14 @@ public class CustomCharacterController : MonoBehaviour
         }
 
         //Aterissage
-        else if (isJumping && groundType != GroundType.none)
+        else if (isFalling && groundType != GroundType.none)
         {
             isJumping = false;
             isFalling = false;
             unfreeze = false;
+
+            ///Ici, lignes de codes pour un screenShake à l'aterissage 
+
         }
     }
     
