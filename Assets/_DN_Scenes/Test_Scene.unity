@@ -304,7 +304,7 @@ PrefabInstance:
         type: 3}
       propertyPath: mainCamera
       value: 
-      objectReference: {fileID: 3114204817510061398}
+      objectReference: {fileID: 3114204817445479896}
     - target: {fileID: 1556275059274614435, guid: 34792d8c197f8714cb4c039c90ff6083,
         type: 3}
       propertyPath: shakeMagnitude
@@ -330,6 +330,11 @@ PrefabInstance:
       propertyPath: largeCamera
       value: 
       objectReference: {fileID: 3114204817510061398}
+    - target: {fileID: 1556275059274614435, guid: 34792d8c197f8714cb4c039c90ff6083,
+        type: 3}
+      propertyPath: CameraLow
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1556275059274614436, guid: 34792d8c197f8714cb4c039c90ff6083,
         type: 3}
       propertyPath: m_Name
@@ -1368,27 +1373,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2af719a28bbef80499950677278944e2, type: 3}
---- !u!1 &2133327372 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 1556275059274614436, guid: 34792d8c197f8714cb4c039c90ff6083,
-    type: 3}
-  m_PrefabInstance: {fileID: 612148018}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &2133327373
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2133327372}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2fc0cb507b4fef14db5816b30c2621f8, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  CameraLow: 1
-  CameraLarge: 0
-  CameraMain: 0
 --- !u!1001 &34131807843324646
 PrefabInstance:
   m_ObjectHideFlags: 0
