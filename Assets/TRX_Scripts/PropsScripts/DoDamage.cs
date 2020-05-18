@@ -5,13 +5,13 @@ using UnityEngine;
 public class DoDamage :  MonoBehaviour
 {
     private GameObject player;
-    private BoxCollider2D playerCollider;
+    private Collider2D playerCollider;
     private Collider2D objectCollider;
 
     private void Start()
     {
         player = GameObject.FindWithTag("Player");
-        playerCollider = player.GetComponent<BoxCollider2D>();
+        playerCollider = player.GetComponent<Collider2D>();
         objectCollider = gameObject.GetComponent<Collider2D>();
     }
 

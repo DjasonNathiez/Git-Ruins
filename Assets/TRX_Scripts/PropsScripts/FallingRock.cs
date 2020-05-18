@@ -8,14 +8,14 @@ public class FallingRock : MonoBehaviour
     private Rigidbody2D rockRigidbody;
     private Vector2 velocity;
     private GameObject player;
-    private BoxCollider2D playerCollider;
+    private Collider2D playerCollider;
     //private Transform rOrigin;
 
     void Start()
     {
         rockRigidbody = gameObject.GetComponentInParent(typeof(Rigidbody2D)) as Rigidbody2D;
         player = GameObject.FindWithTag("Player");
-        playerCollider = player.GetComponent<BoxCollider2D>();
+        playerCollider = player.GetComponent<Collider2D>();
 
     }
 

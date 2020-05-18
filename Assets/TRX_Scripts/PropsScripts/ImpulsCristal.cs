@@ -5,7 +5,7 @@ using UnityEngine;
 public class ImpulsCristal : MonoBehaviour
 {
     private GameObject player;
-    private BoxCollider2D playerCollider;
+    private Collider2D playerCollider;
     private CircleCollider2D cristalCollider;
     private CustomCharacterController script;
     
@@ -14,7 +14,7 @@ public class ImpulsCristal : MonoBehaviour
     {
         player = GameObject.Find("Character");
         cristalCollider = GetComponent<CircleCollider2D>();
-        playerCollider = player.GetComponent<BoxCollider2D>();
+        playerCollider = player.GetComponent<Collider2D>();
         script = player.GetComponent<CustomCharacterController>();
     }
 
