@@ -23,8 +23,11 @@ public class Activator : MonoBehaviour
     // Update is called once per frame
     private void Update()
     {
-        if (Input.GetButtonDown("Fire1"))
+        if (Input.GetButtonDown("Fire1") || Input.GetKeyDown(KeyCode.Return))
+        {
+            Debug.Log("Return was pressed");
             activationInput = true;
+        }
         else
             activationInput = false;
         
@@ -39,8 +42,11 @@ public class Activator : MonoBehaviour
     {
         if (activationInput && playerCollider.IsTouching(activatorCollider))
         {
+            if (associatedObject1 != null);
             associatedObject1.SetActive(true);
+            if (associatedObject2 != null) ;
             associatedObject2.SetActive(true);
+            if (associatedObject3 != null) ;
             associatedObject3.SetActive(true);
 
             Debug.Log("Activation");

@@ -60,7 +60,7 @@ public class CustomCharacterController : MonoBehaviour
     Vector4 cameraInitialPosition;
     public float shakeMagnitude = 0.05f;
     public float shakeTime = 0.05f;
-    private GameObject mainCamera;
+    [SerializeField] private GameObject mainCamera;
 
     public bool isGrounded;
 

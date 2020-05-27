@@ -5,7 +5,7 @@ using UnityEngine;
 public class Teleport : MonoBehaviour
 {
     private GameObject player;
-    public GameObject teleportPoint;
+    [SerializeField] public GameObject teleportPoint = null;
     private BoxCollider2D playerCollider;
     private Collider2D objectCollider;
 
@@ -14,7 +14,6 @@ public class Teleport : MonoBehaviour
         player = GameObject.FindWithTag("Player");
         playerCollider = player.GetComponent<BoxCollider2D>();
         objectCollider = gameObject.GetComponent<Collider2D>();
-        teleportPoint = GameObject.FindWithTag("");
 
         // Update is called once per frame
     }
@@ -28,10 +27,8 @@ public class Teleport : MonoBehaviour
 
     void Portal()
     {
-        //play Death animation
+        //Teleport player to teleport point position
         teleportPoint.transform.position = new Vector3(teleportPoint.transform.position.x, teleportPoint.transform.position.y, 0);
-
-        //Teleport the player GameObject to the respawn point location
         player.transform.position = teleportPoint.transform.position;
     }
 }
