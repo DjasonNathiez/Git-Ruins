@@ -12,7 +12,7 @@ public class ImpulsCristal : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        player = GameObject.Find("Character");
+        player = GameObject.FindWithTag("Player");
         cristalCollider = GetComponent<CircleCollider2D>();
         playerCollider = player.GetComponent<Collider2D>();
         script = player.GetComponent<CustomCharacterController>();

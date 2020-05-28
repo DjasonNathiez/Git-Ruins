@@ -31,6 +31,7 @@ public class CustomCharacterController : MonoBehaviour
 
     [SerializeField] float acceleration = 0.0f;
     [SerializeField] float maxSpeed = 0.0f;
+    [SerializeField] float maxYSpeed = 0.0f;
     [SerializeField] float fallSpeed = 0.0f;
     [SerializeField] float jumpForce = 12.0f;
     [SerializeField] float jumpHForce = 4.0f;
@@ -121,7 +122,6 @@ public class CustomCharacterController : MonoBehaviour
         if (isGrounded == true)
         {
             ShakeIt();
-
         }
 
 
@@ -200,13 +200,14 @@ public class CustomCharacterController : MonoBehaviour
     }
 
         // Méthodes
-        void ClampVelocity()
+    void ClampVelocity()
     {
         velocity = playerRigidbody.velocity;
-        velocity.y = Mathf.Clamp(velocity.y, -fallSpeed, velocity.y);
+        velocity.y = Mathf.Clamp(velocity.y, -fallSpeed, maxYSpeed);
         playerRigidbody.velocity = velocity;
 
     }
+
     void InputCheck()
     {
 
@@ -414,10 +415,12 @@ public class CustomCharacterController : MonoBehaviour
         //freeze position
         enableMouv = false;
         playerRigidbody.constraints = RigidbodyConstraints2D.FreezePosition | RigidbodyConstraints2D.FreezeRotation;
-        yield return new WaitForSeconds(0.18f);
+        animator.SetBool("isImpulsing", true);
+        yield return new WaitForSeconds(0.24f);
         unfreeze = true;
         if (unfreeze/*Condition validée dans la coroutine après le temps de freeze*/)
         {
+            animator.SetBool("isImpulsing", false);
             //unfreeze position
             playerRigidbody.constraints = RigidbodyConstraints2D.FreezeRotation;
 

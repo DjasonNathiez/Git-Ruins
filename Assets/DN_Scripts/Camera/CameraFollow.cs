@@ -13,7 +13,7 @@ public class CameraFollow : MonoBehaviour
 
     public void Start()
     {
-        playerTransform = GameObject.Find("Character").transform;
+        playerTransform = GameObject.FindWithTag("Player").transform;
     }
 
     private void LateUpdate()

@@ -15,7 +15,7 @@ public class Activator : MonoBehaviour
 
     private void Start()
     {
-        player = GameObject.Find("Character");
+        player = GameObject.FindWithTag("Player");
         activatorCollider = gameObject.GetComponent<CircleCollider2D>();
         playerCollider = player.GetComponent<BoxCollider2D>();
     }
@@ -30,24 +30,21 @@ public class Activator : MonoBehaviour
         }
         else
             activationInput = false;
-        
-    }
 
-    private void FixedUpdate()
-    {
         Activation();
+
     }
 
     private void Activation()
     {
         if (activationInput && playerCollider.IsTouching(activatorCollider))
         {
-            if (associatedObject1 != null);
-            associatedObject1.SetActive(true);
-            if (associatedObject2 != null) ;
-            associatedObject2.SetActive(true);
-            if (associatedObject3 != null) ;
-            associatedObject3.SetActive(true);
+            if (associatedObject1 != null)
+                associatedObject1.SetActive(true);
+            if (associatedObject2 != null)
+                associatedObject2.SetActive(true);
+            if (associatedObject3 != null)
+                associatedObject3.SetActive(true);
 
             Debug.Log("Activation");
         }

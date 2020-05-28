@@ -1,19 +1,31 @@
 fileFormatVersion: 2
-guid: 67993f3a707b2104ba7e0583a8227383
+guid: 58f008031715c8b4d9f0b1ca68c97b67
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4176240517022479058
-    second: double jump lag -Sheet_0
+      213: 154215179231656217
+    second: Freeze_spritesheet_0
   - first:
-      213: 8953565758751257084
-    second: double jump lag -Sheet_1
+      213: -1788729870402856299
+    second: Freeze_spritesheet_1
   - first:
-      213: 4153089917364183767
-    second: double jump lag -Sheet_2
+      213: 7110906282497730275
+    second: Freeze_spritesheet_2
   - first:
-      213: 7393854290862252443
-    second: double jump lag -Sheet_3
+      213: 6896522039248571873
+    second: Freeze_spritesheet_3
+  - first:
+      213: -4807013107296525915
+    second: Freeze_spritesheet_0
+  - first:
+      213: 6743183232182458271
+    second: Freeze_spritesheet_1
+  - first:
+      213: -8427374615007837631
+    second: Freeze_spritesheet_2
+  - first:
+      213: -3060554384296958881
+    second: Freeze_spritesheet_3
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -98,85 +110,85 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: double jump lag -Sheet_0
+      name: Freeze_spritesheet_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 52
-        height: 52
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 56
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e2d084e50630b06c0800000000000000
-      internalID: -4176240517022479058
+      spriteID: 5a1a1fc2c0f0a4db0800000000000000
+      internalID: -4807013107296525915
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: double jump lag -Sheet_1
+      name: Freeze_spritesheet_1
       rect:
         serializedVersion: 2
-        x: 52
+        x: 56
         y: 0
-        width: 52
-        height: 52
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 56
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cf1387b9e94714c70800000000000000
-      internalID: 8953565758751257084
+      spriteID: f971b993c69949d50800000000000000
+      internalID: 6743183232182458271
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: double jump lag -Sheet_2
+      name: Freeze_spritesheet_2
       rect:
         serializedVersion: 2
-        x: 104
+        x: 112
         y: 0
-        width: 52
-        height: 52
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 56
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7d2afbc964db2a930800000000000000
-      internalID: 4153089917364183767
+      spriteID: 14240531073fb0b80800000000000000
+      internalID: -8427374615007837631
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: double jump lag -Sheet_3
+      name: Freeze_spritesheet_3
       rect:
         serializedVersion: 2
-        x: 156
+        x: 168
         y: 0
-        width: 52
-        height: 52
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 56
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b91a7df9d4f3c9660800000000000000
-      internalID: 7393854290862252443
+      spriteID: f542734c00ab685d0800000000000000
+      internalID: -3060554384296958881
       vertices: []
       indices: 
       edges: []
