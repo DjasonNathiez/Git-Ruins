@@ -220,7 +220,9 @@ public class CustomCharacterController : MonoBehaviour
         {
             jumpInput = true;
             StartCoroutine("JumpBuffering");
-            animator.SetBool("isJumping", true);
+
+            if (canJump) animator.SetBool("isJumping", true);
+            
         }
         else
         {
@@ -313,6 +315,11 @@ public class CustomCharacterController : MonoBehaviour
         if (isJumping && playerRigidbody.velocity.y < 0)
         {
             isFalling = true;
+        }
+        //
+        if (isJumping && isFalling)
+        {
+            canJump = false;
         }
 
         //Saut de base
@@ -454,35 +461,40 @@ public class CustomCharacterController : MonoBehaviour
     void GroundingUpdate()
     {
         //Setup des raycast pour mettre à jour le grounding
-        int numHits = playerCollider.Cast(-Vector2.up, rGroundCast, 0.1f);
+        int numHits = playerCollider.Raycast(-Vector2.up, rGroundCast, 1.3f, groundLayer);
         int wallHitsLeft = playerCollider.Raycast(Vector2.left, rWallCast, 1.4f, wallJumpLayer);
         int wallHitsRight = playerCollider.Raycast(-Vector2.left, rWallCast, 1.4f, wallJumpLayer);
 
         //Grounding au sol
         if (numHits > 0)
+        {
             groundType = GroundType.ground;
-
+            canJump = true;
+        }
         //Grounding sur un mur de WallJump
-        else if (wallHitsLeft > 0 )
+        else if (wallHitsLeft > 0)
         {
             print("touché gauche");
             groundType = GroundType.wallJump;
             isLeftWallJump = true;
+            canJump = true;
         }
         else if (wallHitsRight > 0)
         {
             print("touché droit");
             groundType = GroundType.wallJump;
             isLeftWallJump = false;
+            canJump = true;
         }
         //Pas de Grounding (vide)
         else
         {
             groundType = GroundType.none;
+            canJump = false;
         }
     }
 
-    private IEnumerator JumpBuffering()
+    public IEnumerator JumpBuffering()
     {
         yield return new WaitForSeconds(jumpBuffering);
         jumpInput = false;

@@ -23,6 +23,7 @@ public class ImpulsCristal : MonoBehaviour
          if (player.GetComponent<CustomCharacterController>().jumpInput && playerCollider.IsTouching(cristalCollider))
          {
              script.StartCoroutine("Impulse");
+            script.animator.SetBool("isImpulsing", true);
          }
 
      }

@@ -29950,6 +29950,21 @@ PrefabInstance:
       propertyPath: mainCamera
       value: 
       objectReference: {fileID: 1994718451}
+    - target: {fileID: 4151287836019415086, guid: 95d80a3c32c78ee47a81e48a369834a8,
+        type: 3}
+      propertyPath: jumpBuffering
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4151287836019415086, guid: 95d80a3c32c78ee47a81e48a369834a8,
+        type: 3}
+      propertyPath: maxYSpeed
+      value: 17
+      objectReference: {fileID: 0}
+    - target: {fileID: 4151287836019415086, guid: 95d80a3c32c78ee47a81e48a369834a8,
+        type: 3}
+      propertyPath: jumpForce
+      value: 23
+      objectReference: {fileID: 0}
     - target: {fileID: 4151287836019415087, guid: 95d80a3c32c78ee47a81e48a369834a8,
         type: 3}
       propertyPath: m_LocalPosition.x
