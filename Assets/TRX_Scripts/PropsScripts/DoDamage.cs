@@ -19,6 +19,7 @@ public class DoDamage :  MonoBehaviour
     {
         if (playerCollider.IsTouching(objectCollider))
         GameObject.FindWithTag("Player").SendMessage("Death");
+        FindObjectOfType<SoundManager>().PlaySound("Player Death");
     }
     
 

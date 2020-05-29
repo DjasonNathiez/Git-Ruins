@@ -236,30 +236,50 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 44417984907373350, guid: e1b1474486d48f94881179616087aa52,
+        type: 3}
+      propertyPath: m_RenderMode
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 44417984907373351, guid: e1b1474486d48f94881179616087aa52,
+        type: 3}
+      propertyPath: m_ReferencePixelsPerUnit
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 44417984907373351, guid: e1b1474486d48f94881179616087aa52,
+        type: 3}
+      propertyPath: m_ReferenceResolution.x
+      value: 1920
+      objectReference: {fileID: 0}
+    - target: {fileID: 44417984907373351, guid: e1b1474486d48f94881179616087aa52,
+        type: 3}
+      propertyPath: m_ReferenceResolution.y
+      value: 1080
+      objectReference: {fileID: 0}
     - target: {fileID: 44417985573863638, guid: e1b1474486d48f94881179616087aa52,
         type: 3}
       propertyPath: m_AnchorMax.x
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 44417985573863638, guid: e1b1474486d48f94881179616087aa52,
         type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 44417985576692222, guid: e1b1474486d48f94881179616087aa52,
         type: 3}
       propertyPath: m_AnchorMin.x
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 44417985576692222, guid: e1b1474486d48f94881179616087aa52,
         type: 3}
       propertyPath: m_AnchorMax.x
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 44417985576692222, guid: e1b1474486d48f94881179616087aa52,
         type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3985205718031075662, guid: e1b1474486d48f94881179616087aa52,
         type: 3}
@@ -342,6 +362,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 8928489071976155662}
     m_Modifications:
+    - target: {fileID: 3508193003287903523, guid: 0f354d8191f1a9f4892111a1c6f36097,
+        type: 3}
+      propertyPath: m_RenderMode
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3508193003287903526, guid: 0f354d8191f1a9f4892111a1c6f36097,
         type: 3}
       propertyPath: m_LocalPosition.x

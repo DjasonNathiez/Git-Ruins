@@ -16,6 +16,8 @@ public class CustomCharacterController : MonoBehaviour
         none
     }
 
+    public static AudioClip playerFall;
+    static AudioSource audioSrc;
     public Animator animator;
 
     public bool jumpInput = false;
@@ -38,7 +40,7 @@ public class CustomCharacterController : MonoBehaviour
     [SerializeField] float impulseHForce = 6.0f;
     [SerializeField] float impulseForce = 12.0f;
     [SerializeField, Range(0f,0.50f)] float jumpBuffering = 0.04f;
-    float speedInfo;
+    public float speedInfo;
 
     SpriteRenderer playerSprite;
     Rigidbody2D playerRigidbody;
@@ -73,6 +75,11 @@ public class CustomCharacterController : MonoBehaviour
     public bool CameraLarge;
     public bool CameraMain;
 
+    public AudioSource walkingSrc;
+    public AudioClip walking;
+
+    SoundManager[] soundM;
+
     private void Awake()
     {
         LowCam = GameObject.Find("Camera_Low");
@@ -103,7 +110,6 @@ public class CustomCharacterController : MonoBehaviour
         ClampVelocity();
         CameraSwitch();
 
-
         if (CameraLow == true)
         {
             mainCamera = LowCam;
@@ -122,6 +128,15 @@ public class CustomCharacterController : MonoBehaviour
         if (isGrounded == true)
         {
             ShakeIt();
+        }
+
+        if(Input.GetAxisRaw("Horizontal") != 0)
+        { 
+           
+        }
+        else
+        { 
+            
         }
 
 
@@ -223,6 +238,10 @@ public class CustomCharacterController : MonoBehaviour
 
             if (canJump) animator.SetBool("isJumping", true);
             
+            if (canJump == true)
+            {
+                FindObjectOfType<SoundManager>().PlaySound("Jump");
+            }
         }
         else
         {
@@ -288,10 +307,12 @@ public class CustomCharacterController : MonoBehaviour
             if (Input.GetAxis("Horizontal") < 0f) 
             {
                 gameObject.GetComponent<SpriteRenderer>().flipX = true;
+               
             }
             else if (Input.GetAxis("Horizontal") > 0f)
             {
                 gameObject.GetComponent<SpriteRenderer>().flipX = false;
+                
             }
             
             //Smoothing collision with walls
@@ -386,6 +407,7 @@ public class CustomCharacterController : MonoBehaviour
             unfreeze = false;
 
             isGrounded = true;
+            FindObjectOfType<SoundManager>().PlaySound("Player Ground Impact");
         }
 
 
