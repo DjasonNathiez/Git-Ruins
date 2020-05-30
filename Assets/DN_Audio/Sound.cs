@@ -4,11 +4,12 @@ using UnityEngine.Audio;
 [System.Serializable]
 public class Sound
 {
+    public string nameClip;
 
-    public AudioClip clip;
     public AudioMixerGroup audioMixer;
 
-    public string nameClip;
+    public AudioClip clip;
+
 
     [Range(0f, 1f)]
     public float volume;
