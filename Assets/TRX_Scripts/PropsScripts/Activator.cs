@@ -7,6 +7,7 @@ public class Activator : MonoBehaviour
     private GameObject player;
     private BoxCollider2D playerCollider;
     private CircleCollider2D activatorCollider;
+    private Animator animator;
     bool activationInput;
     [Header("GameObjet associé")]
     [SerializeField] GameObject associatedObject1 = null;
@@ -15,6 +16,7 @@ public class Activator : MonoBehaviour
 
     private void Start()
     {
+        animator = gameObject.GetComponent<Animator>();
         player = GameObject.FindWithTag("Player");
         activatorCollider = gameObject.GetComponent<CircleCollider2D>();
         playerCollider = player.GetComponent<BoxCollider2D>();
@@ -47,6 +49,9 @@ public class Activator : MonoBehaviour
                 associatedObject3.SetActive(true);
 
             Debug.Log("Activation");
+            animator.SetBool("Activating", true);
+
         }
+
     }
 }

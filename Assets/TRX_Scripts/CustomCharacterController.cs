@@ -93,7 +93,6 @@ public class CustomCharacterController : MonoBehaviour
         playerRigidbody = gameObject.GetComponent<Rigidbody2D>();
         //playerCollider = gameObject.GetComponent<BoxCollider2D>();
         playerCollider = gameObject.GetComponent<Collider2D>();
-
         groundLayer = LayerMask.GetMask("Ground");
         wallJumpLayer = LayerMask.GetMask("WallJump");
 
@@ -483,17 +482,21 @@ public class CustomCharacterController : MonoBehaviour
     void GroundingUpdate()
     {
         //Setup des raycast pour mettre à jour le grounding
-        int numHits = playerCollider.Raycast(-Vector2.up, rGroundCast, 1.3f, (groundLayer | wallJumpLayer));
+        RaycastHit2D hitLeftFoot = Physics2D.Raycast(new Vector3((transform.position.x - 0.3f), transform.position.y, transform.position.z), -Vector2.up, 1.4f, (groundLayer | wallJumpLayer));
+        RaycastHit2D hitRightFoot = Physics2D.Raycast(new Vector3((transform.position.x + 0.3f), transform.position.y, transform.position.z), -Vector2.up, 1.4f, (groundLayer | wallJumpLayer));
+        Debug.DrawRay(new Vector3((transform.position.x - 0.3f), transform.position.y, transform.position.z), -Vector2.up, Color.green);
+        Debug.DrawRay(new Vector3((transform.position.x + 0.3f), transform.position.y, transform.position.z), -Vector2.up, Color.green);
+
+        //int numHits = playerCollider.Raycast(-Vector2.up, rGroundCast, 1.3f, (groundLayer | wallJumpLayer));
         int wallHitsLeft = playerCollider.Raycast(Vector2.left, rWallCast, 0.8f, wallJumpLayer);
         int wallHitsRight = playerCollider.Raycast(-Vector2.left, rWallCast, 0.8f, wallJumpLayer);
 
         //Grounding au sol
-        if (numHits > 0)
+        if ((hitLeftFoot.collider != null) || (hitRightFoot.collider != null))
         {
             groundType = GroundType.ground;
             canJump = true;
             animator.SetBool("isGrinding", false);
-            Debug.Log(groundType);
 
         }
         //Grounding sur un mur de WallJump
