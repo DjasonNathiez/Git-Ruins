@@ -16,6 +16,8 @@ public class PorteOpening : MonoBehaviour
     [SerializeField] GameObject cube2 = null;
     [SerializeField] GameObject cube3 = null;
     [SerializeField] GameObject cube4 = null;
+    [SerializeField] GameObject cube5 = null;
+    [SerializeField] GameObject cube6 = null;
 
     void Start()
     {
@@ -52,6 +54,14 @@ public class PorteOpening : MonoBehaviour
         if (cube4 != null)
         {
             cube4.SendMessage("CubeDepop");
+        }
+        if (cube5 != null)
+        {
+            cube5.SendMessage("CubeDepop");
+        }
+        if (cube6 != null)
+        {
+            cube6.SendMessage("CubeDepop");
         }
 
     }

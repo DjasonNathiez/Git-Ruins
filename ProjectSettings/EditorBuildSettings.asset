@@ -6,42 +6,45 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 0
-    path: Assets/_BUILDS/V2.3.5/Main Menu.unity
-    guid: 52840122ef507b94fb3ab6e6c9f1f331
-  - enabled: 0
-    path: Assets/_BUILDS/V2.3.5/T1_F.unity
-    guid: 0704a8c44f4dbe14383e58bed307dd17
-  - enabled: 0
-    path: Assets/_BUILDS/V2.3.5/T2_F.unity
-    guid: 57d1b9db10c1a144caf608c36fec9a34
-  - enabled: 0
-    path: Assets/_BUILDS/V2.3.5/T3_F.unity
-    guid: 2fe1aec22631cd4469046475ded0aec8
-  - enabled: 0
-    path: Assets/_BUILDS/V2.3.5/T4_F.unity
-    guid: fb544624f5a5d7947b9d11be306fc3ac
-  - enabled: 0
-    path: Assets/_BUILDS/V2.3.9/T1_F.unity
-    guid: f64fdc0d186c03346aebba32bbd110a5
-  - enabled: 1
     path: Assets/DN_Scenes/Main Menu.unity
     guid: 40b19233c2899894eb94516a5efe7124
-  - enabled: 1
+  - enabled: 0
     path: Assets/DN_Scenes/Niveaux/T1_F 2.unity
     guid: 03dcc4f964ccd354a8e8570f522cdd4d
-  - enabled: 1
+  - enabled: 0
     path: Assets/DN_Scenes/Niveaux/T2_F 2.unity
     guid: b6bc51d7e1525a74ea1a6c331d992bfe
-  - enabled: 1
+  - enabled: 0
     path: Assets/DN_Scenes/Niveaux/T3_F 2.unity
     guid: af3400696fc309348bd40306f2dcc4c5
-  - enabled: 1
+  - enabled: 0
     path: Assets/DN_Scenes/Niveaux/T4_F 2.unity
     guid: 8dfa8d6bdfb027f4aa8b6f06e5e8c110
-  - enabled: 1
+  - enabled: 0
     path: Assets/DN_Scenes/Niveaux/H_1.unity
     guid: c83805bb737d03f409edd4e293d05e2d
-  - enabled: 1
+  - enabled: 0
     path: Assets/DN_Scenes/Niveaux/H_4.unity
     guid: dab139a52b5efe849942c4ba128090dd
+  - enabled: 1
+    path: Assets/_BUILDS/V2.6.5/Main Menu.unity
+    guid: 3d7a781c49b93574fb586c616bc34c40
+  - enabled: 1
+    path: Assets/_BUILDS/V2.6.5/T1_F.unity
+    guid: 720f72dda15320f4d8017ccd3f9ad94d
+  - enabled: 1
+    path: Assets/_BUILDS/V2.6.5/T2_F.unity
+    guid: 3cd57631dc1390d40ab1dead3be07ba3
+  - enabled: 1
+    path: Assets/_BUILDS/V2.6.5/T3_F.unity
+    guid: c35af92d35b699740895acb01895f6d4
+  - enabled: 1
+    path: Assets/_BUILDS/V2.6.5/T4_F.unity
+    guid: b4ba1f96a4de9244684c20648e8fc07f
+  - enabled: 1
+    path: Assets/_BUILDS/V2.6.5/H_1.unity
+    guid: 6eaf24c62b6971448820c2f973a4f4b5
+  - enabled: 1
+    path: Assets/_BUILDS/V2.6.5/H_4.unity
+    guid: 697862a8889aedc4692a622d9c2a1473
   m_configObjects: {}

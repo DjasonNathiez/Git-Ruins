@@ -482,8 +482,8 @@ public class CustomCharacterController : MonoBehaviour
     void GroundingUpdate()
     {
         //Setup des raycast pour mettre à jour le grounding
-        RaycastHit2D hitLeftFoot = Physics2D.Raycast(new Vector3((transform.position.x - 0.3f), transform.position.y, transform.position.z), -Vector2.up, 1.4f, (groundLayer | wallJumpLayer));
-        RaycastHit2D hitRightFoot = Physics2D.Raycast(new Vector3((transform.position.x + 0.3f), transform.position.y, transform.position.z), -Vector2.up, 1.4f, (groundLayer | wallJumpLayer));
+        RaycastHit2D hitLeftFoot = Physics2D.Raycast(new Vector3((transform.position.x - 0.3f), transform.position.y, transform.position.z), -Vector2.up, 0.8f, (groundLayer | wallJumpLayer));
+        RaycastHit2D hitRightFoot = Physics2D.Raycast(new Vector3((transform.position.x + 0.3f), transform.position.y, transform.position.z), -Vector2.up, 0.8f, (groundLayer | wallJumpLayer));
         Debug.DrawRay(new Vector3((transform.position.x - 0.3f), transform.position.y, transform.position.z), -Vector2.up, Color.green);
         Debug.DrawRay(new Vector3((transform.position.x + 0.3f), transform.position.y, transform.position.z), -Vector2.up, Color.green);
 
