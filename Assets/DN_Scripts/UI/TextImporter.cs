@@ -4,15 +4,15 @@ using UnityEngine;
 
 public class TextImporter : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
+    public TextAsset textfile;
+    public string[] textLines;
+
+    private void Start()
     {
-        
+        if(textfile != null)
+        {
+            textLines = (textfile.text.Split('\n'));
+        }
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
 }

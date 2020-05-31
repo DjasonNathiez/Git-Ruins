@@ -259,27 +259,27 @@ PrefabInstance:
     - target: {fileID: 44417985573863638, guid: e1b1474486d48f94881179616087aa52,
         type: 3}
       propertyPath: m_AnchorMax.x
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 44417985573863638, guid: e1b1474486d48f94881179616087aa52,
         type: 3}
       propertyPath: m_AnchorMax.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 44417985576692222, guid: e1b1474486d48f94881179616087aa52,
         type: 3}
       propertyPath: m_AnchorMin.x
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 44417985576692222, guid: e1b1474486d48f94881179616087aa52,
         type: 3}
       propertyPath: m_AnchorMax.x
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 44417985576692222, guid: e1b1474486d48f94881179616087aa52,
         type: 3}
       propertyPath: m_AnchorMax.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3985205718031075662, guid: e1b1474486d48f94881179616087aa52,
         type: 3}
