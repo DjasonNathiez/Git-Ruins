@@ -4,27 +4,30 @@ using UnityEngine;
 
 public class Parralax : MonoBehaviour
 {
-    CameraSwitch cameraSwitch;
+    public CustomCharacterController cameraSwitch;
 
     public Transform[] backgrounds; //liste des backgrounds qui subissent la parallax
     private float[] parralaxScales;
     public float smooth; //toujours au dessus de 0
 
-    public bool camLow;
-    public bool camLarge;
-    public bool camMain;
-
     private Transform cam;
+    public Transform CameraLow;
+    public Transform CameraLarge;
+    public Transform CameraMain;
 
     private Vector3 previousCamMainPos; //position de la camera dans la frame précedente
 
-    private void Awake()
+    public void Awake()
     {
-        cam = Camera.main.transform;
+        cameraSwitch = FindObjectOfType<CustomCharacterController>();
+        CameraLow = GameObject.FindGameObjectWithTag("CameraLow").transform;
+        CameraLarge = GameObject.FindGameObjectWithTag("CameraLarge").transform;
+        CameraMain = Camera.main.transform;
+
+        CameraActive();
     }
-    private void Start()
+    public void Start()
     {
-        
         //la position de la caméra main à la frame précédente
         previousCamMainPos = cam.position;
 
@@ -40,6 +43,8 @@ public class Parralax : MonoBehaviour
     public void Update()
     {
 
+        CameraActive();
+
         for (int i = 0; i < backgrounds.Length; i++)
         {
              float parralax = (previousCamMainPos.x - cam.position.x) * parralaxScales[i];
@@ -53,6 +58,30 @@ public class Parralax : MonoBehaviour
 
         previousCamMainPos = cam.position;
 
+    }
+
+
+    public void CameraActive()
+    {
+
+        bool camLow = cameraSwitch.CameraLow;
+        bool camLarge = cameraSwitch.CameraLarge;
+        bool camMain = cameraSwitch.CameraMain;
+
+        if (camLow == true)
+        {
+            cam = CameraLow;
+        }
+
+        if (camLarge == true)
+        {
+            cam = CameraLarge;
+        }
+
+        if (camMain == true)
+        {
+            cam = CameraMain;
+        }
     }
 
 }
