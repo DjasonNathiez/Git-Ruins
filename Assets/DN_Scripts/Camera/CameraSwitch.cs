@@ -26,6 +26,11 @@ public class CameraSwitch : MonoBehaviour
             cameraMain.SetActive(true);
             cameraLow.SetActive(false);
             cameraLarge.SetActive(false);
+
+            CameraMain = true;
+            CameraLarge = false;
+            CameraLow = false;
+            
         }
 
         if (CameraLow == true)
@@ -33,6 +38,11 @@ public class CameraSwitch : MonoBehaviour
             cameraMain.SetActive(false);
             cameraLow.SetActive(true);
             cameraLarge.SetActive(false);
+
+            CameraMain = false;
+            CameraLarge = false;
+            CameraLow = true;
+
         }
 
         if (CameraLarge == true)
@@ -40,6 +50,11 @@ public class CameraSwitch : MonoBehaviour
             cameraMain.SetActive(false);
             cameraLow.SetActive(false);
             cameraLarge.SetActive(true);
+
+            CameraMain = false;
+            CameraLarge = true;
+            CameraLow = false;
+
         }
 
     }
@@ -52,6 +67,7 @@ public class CameraSwitch : MonoBehaviour
             cameraMain.SetActive(false);
             cameraLow.SetActive(true);
             cameraLarge.SetActive(false);
+
         }
 
         if (collision.CompareTag("CameraLarge"))
@@ -60,6 +76,7 @@ public class CameraSwitch : MonoBehaviour
             cameraMain.SetActive(false);
             cameraLow.SetActive(false);
             cameraLarge.SetActive(true);
+
         }
 
         if (collision.CompareTag("MainCamera"))
@@ -68,6 +85,7 @@ public class CameraSwitch : MonoBehaviour
             cameraMain.SetActive(true);
             cameraLow.SetActive(false);
             cameraLarge.SetActive(false);
+
         }
     }
 }

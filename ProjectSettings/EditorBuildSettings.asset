@@ -20,7 +20,28 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/_BUILDS/V2.3.5/T4_F.unity
     guid: fb544624f5a5d7947b9d11be306fc3ac
-  - enabled: 1
+  - enabled: 0
     path: Assets/_BUILDS/V2.3.9/T1_F.unity
     guid: f64fdc0d186c03346aebba32bbd110a5
+  - enabled: 1
+    path: Assets/DN_Scenes/Main Menu.unity
+    guid: 40b19233c2899894eb94516a5efe7124
+  - enabled: 1
+    path: Assets/DN_Scenes/Niveaux/T1_F 2.unity
+    guid: 03dcc4f964ccd354a8e8570f522cdd4d
+  - enabled: 1
+    path: Assets/DN_Scenes/Niveaux/T2_F 2.unity
+    guid: b6bc51d7e1525a74ea1a6c331d992bfe
+  - enabled: 1
+    path: Assets/DN_Scenes/Niveaux/T3_F 2.unity
+    guid: af3400696fc309348bd40306f2dcc4c5
+  - enabled: 1
+    path: Assets/DN_Scenes/Niveaux/T4_F 2.unity
+    guid: 8dfa8d6bdfb027f4aa8b6f06e5e8c110
+  - enabled: 1
+    path: Assets/DN_Scenes/Niveaux/H_1.unity
+    guid: c83805bb737d03f409edd4e293d05e2d
+  - enabled: 1
+    path: Assets/DN_Scenes/Niveaux/H_4.unity
+    guid: dab139a52b5efe849942c4ba128090dd
   m_configObjects: {}

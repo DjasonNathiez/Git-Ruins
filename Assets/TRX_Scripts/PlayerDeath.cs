@@ -11,7 +11,7 @@ public class PlayerDeath : MonoBehaviour
     void Start()
     {
         respawnPoint = GameObject.FindWithTag("Respawn");
-        currentPlayer = GameObject.Find("Character");
+        currentPlayer = GameObject.FindWithTag("Player");
         
     }
 

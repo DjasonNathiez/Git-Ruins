@@ -1,0 +1,844 @@
+fileFormatVersion: 2
+guid: a57fd930da7c9af4c97fd325aab72cda
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6682467780505854082
+    second: title idle 23 frames_0
+  - first:
+      213: -8117155205894718748
+    second: title idle 23 frames_1
+  - first:
+      213: 4896262416614342429
+    second: title idle 23 frames_2
+  - first:
+      213: 4705523116672863840
+    second: title idle 23 frames_3
+  - first:
+      213: -2018456435431329509
+    second: title idle 23 frames_4
+  - first:
+      213: 8643519280902697531
+    second: title idle 23 frames_5
+  - first:
+      213: -1852365972069602073
+    second: title idle 23 frames_6
+  - first:
+      213: -8559537037178820662
+    second: title idle 23 frames_7
+  - first:
+      213: -7650135331389802966
+    second: title idle 23 frames_8
+  - first:
+      213: 2278999405249910305
+    second: title idle 23 frames_9
+  - first:
+      213: 1909304417798984166
+    second: title idle 23 frames_10
+  - first:
+      213: 8382695913627830385
+    second: title idle 23 frames_11
+  - first:
+      213: -6365909511402593115
+    second: title idle 23 frames_12
+  - first:
+      213: 6100843097202659008
+    second: title idle 23 frames_13
+  - first:
+      213: -8163685532535136887
+    second: title idle 23 frames_14
+  - first:
+      213: 5414550583512267927
+    second: title idle 23 frames_15
+  - first:
+      213: -658936384959899808
+    second: title idle 23 frames_16
+  - first:
+      213: -818116586600806008
+    second: title idle 23 frames_17
+  - first:
+      213: 3353194762191754754
+    second: title idle 23 frames_18
+  - first:
+      213: -3210325367056678811
+    second: title idle 23 frames_19
+  - first:
+      213: -3481718466454134650
+    second: title idle 23 frames_20
+  - first:
+      213: 7111923705774700282
+    second: title idle 23 frames_21
+  - first:
+      213: 9191923388612920641
+    second: title idle 23 frames_22
+  - first:
+      213: 6843372173442047755
+    second: title idle 23 frames_23
+  - first:
+      213: -6831824597254220886
+    second: title idle 23 frames_24
+  - first:
+      213: 2741535765495341587
+    second: title idle 23 frames_25
+  - first:
+      213: -2903568199540201533
+    second: title idle 23 frames_26
+  - first:
+      213: 335353184603424864
+    second: title idle 23 frames_27
+  - first:
+      213: 7109882863161141144
+    second: title idle 23 frames_28
+  - first:
+      213: 6471514629934735183
+    second: title idle 23 frames_29
+  - first:
+      213: -3436637112541448440
+    second: title idle 23 frames_30
+  - first:
+      213: 2502251396861088495
+    second: title idle 23 frames_31
+  - first:
+      213: -8083109898115233007
+    second: title idle 23 frames_32
+  - first:
+      213: -4755880006454100124
+    second: title idle 23 frames_33
+  - first:
+      213: -5022983619400829497
+    second: title idle 23 frames_34
+  - first:
+      213: 5713984901973777022
+    second: title idle 23 frames_35
+  - first:
+      213: 5739821905078250843
+    second: title idle 23 frames_36
+  - first:
+      213: 8975047166558370998
+    second: title idle 23 frames_37
+  - first:
+      213: 5763622477149130659
+    second: title idle 23 frames_38
+  - first:
+      213: -4368185955278480938
+    second: title idle 23 frames_39
+  - first:
+      213: 370157918184581663
+    second: title idle 23 frames_40
+  - first:
+      213: 8874842383320817213
+    second: title idle 23 frames_41
+  - first:
+      213: -8943584426732445125
+    second: title idle 23 frames_42
+  - first:
+      213: 7148377453120660084
+    second: title idle 23 frames_43
+  - first:
+      213: 1984957448188063242
+    second: title idle 23 frames_44
+  - first:
+      213: 8880955059648460700
+    second: title idle 23 frames_45
+  - first:
+      213: -6995384946729059956
+    second: title idle 23 frames_46
+  - first:
+      213: -6608285523934176291
+    second: title idle 23 frames_47
+  - first:
+      213: 2849447004330026010
+    second: title idle 23 frames_48
+  - first:
+      213: -2012767295954805794
+    second: title idle 23 frames_49
+  - first:
+      213: 8578745328781806295
+    second: title idle 23 frames_50
+  - first:
+      213: 8688299144819768216
+    second: title idle 23 frames_51
+  - first:
+      213: 2874109674985319880
+    second: title idle 23 frames_52
+  - first:
+      213: 8113153149655464903
+    second: title idle 23 frames_53
+  - first:
+      213: -2775763594999211638
+    second: title idle 23 frames_54
+  - first:
+      213: 4424041202194130607
+    second: title idle 23 frames_55
+  - first:
+      213: 8302666968034398010
+    second: title idle 23 frames_56
+  - first:
+      213: -8005306967373495832
+    second: title idle 23 frames_57
+  - first:
+      213: 5990348756310054412
+    second: title idle 23 frames_58
+  - first:
+      213: 8489944052823617295
+    second: title idle 23 frames_59
+  - first:
+      213: -8975767170499427658
+    second: title idle 23 frames_60
+  - first:
+      213: -7779220870476419852
+    second: title idle 23 frames_61
+  - first:
+      213: 168295288157852316
+    second: title idle 23 frames_62
+  - first:
+      213: -4456574053190296118
+    second: title idle 23 frames_63
+  - first:
+      213: -2990703447995321229
+    second: title idle 23 frames_64
+  - first:
+      213: 1227453998671802365
+    second: title idle 23 frames_65
+  - first:
+      213: 6558350520082308299
+    second: title idle 23 frames_66
+  - first:
+      213: 8332737826926394596
+    second: title idle 23 frames_67
+  - first:
+      213: -3865322718242951887
+    second: title idle 23 frames_68
+  - first:
+      213: -2957148386008467772
+    second: title idle 23 frames_69
+  - first:
+      213: 772047175557165437
+    second: title idle 23 frames_70
+  - first:
+      213: -7141070367037254275
+    second: title idle 23 frames_71
+  - first:
+      213: 1390258632148197128
+    second: title idle 23 frames_72
+  - first:
+      213: 7412805906213149678
+    second: title idle 23 frames_73
+  - first:
+      213: 8171537559765735153
+    second: title idle 23 frames_74
+  - first:
+      213: -6404346639752187784
+    second: title idle 23 frames_75
+  - first:
+      213: 765307044526136939
+    second: title idle 23 frames_76
+  - first:
+      213: 4784618505594131249
+    second: title idle 23 frames_77
+  - first:
+      213: -1424375397351341870
+    second: title idle 23 frames_78
+  - first:
+      213: 533323843525413306
+    second: title idle 23 frames_79
+  - first:
+      213: -1616333830381414867
+    second: title idle 23 frames_80
+  - first:
+      213: -5837602167278251636
+    second: title idle 23 frames_81
+  - first:
+      213: 5876598054509650148
+    second: title idle 23 frames_82
+  - first:
+      213: -5258515781404116683
+    second: title idle 23 frames_83
+  - first:
+      213: -8435055867444295601
+    second: title idle 23 frames_84
+  - first:
+      213: -2168769724108074870
+    second: title idle 23 frames_85
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: title idle 23 frames_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 241
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2806b088a05ecbc50800000000000000
+      internalID: 6682467780505854082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: title idle 23 frames_1
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 0
+        width: 241
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eabee5c8521a5f80800000000000000
+      internalID: -8117155205894718748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: title idle 23 frames_2
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 0
+        width: 241
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1fb465f9b403f340800000000000000
+      internalID: 4896262416614342429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: title idle 23 frames_3
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 0
+        width: 241
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06eccabf7506d4140800000000000000
+      internalID: 4705523116672863840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: title idle 23 frames_4
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 0
+        width: 241
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b11b383f0900df3e0800000000000000
+      internalID: -2018456435431329509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: title idle 23 frames_5
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 0
+        width: 241
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b32f17b9df2f3f770800000000000000
+      internalID: 8643519280902697531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: title idle 23 frames_6
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 0
+        width: 241
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec25c076f21b46e0800000000000000
+      internalID: -1852365972069602073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: title idle 23 frames_7
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 0
+        width: 241
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac728214a6a663980800000000000000
+      internalID: -8559537037178820662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: title idle 23 frames_8
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 0
+        width: 241
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2678d0c27245d590800000000000000
+      internalID: -7650135331389802966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: title idle 23 frames_9
+      rect:
+        serializedVersion: 2
+        x: 2169
+        y: 0
+        width: 241
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1265f3962e1a0af10800000000000000
+      internalID: 2278999405249910305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: title idle 23 frames_10
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 0
+        width: 241
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e11ef680463f7a10800000000000000
+      internalID: 1909304417798984166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: title idle 23 frames_11
+      rect:
+        serializedVersion: 2
+        x: 2651
+        y: 0
+        width: 241
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178c7ef1581555470800000000000000
+      internalID: 8382695913627830385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: title idle 23 frames_12
+      rect:
+        serializedVersion: 2
+        x: 2892
+        y: 0
+        width: 241
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a46194070fb7a7a0800000000000000
+      internalID: -6365909511402593115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: title idle 23 frames_13
+      rect:
+        serializedVersion: 2
+        x: 3133
+        y: 0
+        width: 241
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce8827297c8aa450800000000000000
+      internalID: 6100843097202659008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: title idle 23 frames_14
+      rect:
+        serializedVersion: 2
+        x: 3374
+        y: 0
+        width: 241
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d5f3fd243c4be80800000000000000
+      internalID: -8163685532535136887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: title idle 23 frames_15
+      rect:
+        serializedVersion: 2
+        x: 3615
+        y: 0
+        width: 241
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79cf1a47119542b40800000000000000
+      internalID: 5414550583512267927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: title idle 23 frames_16
+      rect:
+        serializedVersion: 2
+        x: 3856
+        y: 0
+        width: 241
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06792ec59dcfad6f0800000000000000
+      internalID: -658936384959899808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: title idle 23 frames_17
+      rect:
+        serializedVersion: 2
+        x: 4097
+        y: 0
+        width: 241
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889cdce8c4775a4f0800000000000000
+      internalID: -818116586600806008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: title idle 23 frames_18
+      rect:
+        serializedVersion: 2
+        x: 4338
+        y: 0
+        width: 241
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206d327ced0f88e20800000000000000
+      internalID: 3353194762191754754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: title idle 23 frames_19
+      rect:
+        serializedVersion: 2
+        x: 4579
+        y: 0
+        width: 241
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56049237612a273d0800000000000000
+      internalID: -3210325367056678811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: title idle 23 frames_20
+      rect:
+        serializedVersion: 2
+        x: 4820
+        y: 0
+        width: 241
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680651f60837eafc0800000000000000
+      internalID: -3481718466454134650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: title idle 23 frames_21
+      rect:
+        serializedVersion: 2
+        x: 5061
+        y: 0
+        width: 241
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af671680ee0a2b260800000000000000
+      internalID: 7111923705774700282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: title idle 23 frames_22
+      rect:
+        serializedVersion: 2
+        x: 5302
+        y: 0
+        width: 241
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 145c0ecfe95409f70800000000000000
+      internalID: 9191923388612920641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

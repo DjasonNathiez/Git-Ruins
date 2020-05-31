@@ -120,7 +120,7 @@ GameObject:
   - component: {fileID: 8900371444713911779}
   - component: {fileID: 1623648931}
   m_Layer: 0
-  m_Name: Character
+  m_Name: Character 1
   m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -268,7 +268,7 @@ MonoBehaviour:
   shakeTime: 0.1
   mainCamera: {fileID: 0}
   isGrounded: 0
-  CameraLow: 1
+  CameraLow: 0
   CameraLarge: 0
   CameraMain: 0
   walkingSrc: {fileID: 0}

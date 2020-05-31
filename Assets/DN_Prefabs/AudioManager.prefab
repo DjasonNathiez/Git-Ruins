@@ -44,63 +44,59 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   sounds:
-  - clip: {fileID: 8300000, guid: e3456204c5cf36d45b1fb7bc458b58b2, type: 3}
-    nameClip: Player Ground Impact
-    volume: 0.15
+  - nameClip: Player Ground Impact
+    audioMixer: {fileID: 0}
+    clip: {fileID: 8300000, guid: e3456204c5cf36d45b1fb7bc458b58b2, type: 3}
+    volume: 0.02
     pitch: 1.7
     loop: 0
+    mute: 0
     source: {fileID: 0}
-  - clip: {fileID: 8300000, guid: 4be77f69a07caff4da5830fb2830688c, type: 3}
-    nameClip: Player Walk
-    volume: 0.15
+  - nameClip: walking
+    audioMixer: {fileID: 0}
+    clip: {fileID: 8300000, guid: 7c27b764b6bdbac4bae3197559aba585, type: 3}
+    volume: 0.29
     pitch: 1
-    loop: 1
+    loop: 0
+    mute: 1
     source: {fileID: 0}
-  - clip: {fileID: 8300000, guid: 90de8101c1f1c614f96e8c2a86e08c96, type: 3}
-    nameClip: Theme
+  - nameClip: Theme
+    audioMixer: {fileID: 0}
+    clip: {fileID: 8300000, guid: 047b5d363fc429f4c93e8a8e464f99e9, type: 3}
     volume: 0.06
     pitch: 1
     loop: 0
+    mute: 0
     source: {fileID: 0}
-  - clip: {fileID: 8300000, guid: e3456204c5cf36d45b1fb7bc458b58b2, type: 3}
-    nameClip: Player Ground Impact
+  - nameClip: Stop
+    audioMixer: {fileID: 0}
+    clip: {fileID: 0}
     volume: 0.15
     pitch: 1.7
     loop: 0
+    mute: 0
     source: {fileID: 0}
-  - clip: {fileID: 8300000, guid: e3456204c5cf36d45b1fb7bc458b58b2, type: 3}
-    nameClip: Player Ground Impact
-    volume: 0.15
-    pitch: 1.7
+  - nameClip: Jump
+    audioMixer: {fileID: 0}
+    clip: {fileID: 8300000, guid: f2482688b5ae258489ebe1454391c1d0, type: 3}
+    volume: 0.04
+    pitch: 1
     loop: 0
+    mute: 0
     source: {fileID: 0}
-  - clip: {fileID: 8300000, guid: e3456204c5cf36d45b1fb7bc458b58b2, type: 3}
-    nameClip: Player Ground Impact
-    volume: 0.15
-    pitch: 1.7
+  - nameClip: Impulse
+    audioMixer: {fileID: 0}
+    clip: {fileID: 8300000, guid: ad157db7e3adfa044aeb73f1680c227c, type: 3}
+    volume: 0.04
+    pitch: 1
     loop: 0
+    mute: 0
     source: {fileID: 0}
-  - clip: {fileID: 8300000, guid: e3456204c5cf36d45b1fb7bc458b58b2, type: 3}
-    nameClip: Player Ground Impact
+  - nameClip: Player Death
+    audioMixer: {fileID: 0}
+    clip: {fileID: 8300000, guid: 01abcf0e8ca53274dbf1a3142dd448be, type: 3}
     volume: 0.15
-    pitch: 1.7
+    pitch: 1
     loop: 0
-    source: {fileID: 0}
-  - clip: {fileID: 8300000, guid: e3456204c5cf36d45b1fb7bc458b58b2, type: 3}
-    nameClip: Player Ground Impact
-    volume: 0.15
-    pitch: 1.7
-    loop: 0
-    source: {fileID: 0}
-  - clip: {fileID: 8300000, guid: e3456204c5cf36d45b1fb7bc458b58b2, type: 3}
-    nameClip: Player Ground Impact
-    volume: 0.15
-    pitch: 1.7
-    loop: 0
-    source: {fileID: 0}
-  - clip: {fileID: 8300000, guid: e3456204c5cf36d45b1fb7bc458b58b2, type: 3}
-    nameClip: Player Ground Impact
-    volume: 0.15
-    pitch: 1.7
-    loop: 0
+    mute: 0
     source: {fileID: 0}
