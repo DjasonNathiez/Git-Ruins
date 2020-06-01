@@ -1,0 +1,871 @@
+fileFormatVersion: 2
+guid: 7b834356cbf2349479686148c449212e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1351477026063620832
+    second: riviere uruz start 9 colonnes 4 lignes_0
+  - first:
+      213: -1100920335530413793
+    second: riviere uruz start 9 colonnes 4 lignes_1
+  - first:
+      213: -4969324046818590417
+    second: riviere uruz start 9 colonnes 4 lignes_2
+  - first:
+      213: -7215601542531608078
+    second: riviere uruz start 9 colonnes 4 lignes_3
+  - first:
+      213: -1649270231522507859
+    second: riviere uruz start 9 colonnes 4 lignes_4
+  - first:
+      213: -5428964007663292202
+    second: riviere uruz start 9 colonnes 4 lignes_5
+  - first:
+      213: -4134440929146412931
+    second: riviere uruz start 9 colonnes 4 lignes_6
+  - first:
+      213: -1987238576364075050
+    second: riviere uruz start 9 colonnes 4 lignes_7
+  - first:
+      213: 622476671560055194
+    second: riviere uruz start 9 colonnes 4 lignes_8
+  - first:
+      213: -4229956513366793131
+    second: riviere uruz start 9 colonnes 4 lignes_9
+  - first:
+      213: 8582816105919092895
+    second: riviere uruz start 9 colonnes 4 lignes_10
+  - first:
+      213: -5846616639190242438
+    second: riviere uruz start 9 colonnes 4 lignes_11
+  - first:
+      213: 6676210698872953883
+    second: riviere uruz start 9 colonnes 4 lignes_12
+  - first:
+      213: 6178539681841692761
+    second: riviere uruz start 9 colonnes 4 lignes_13
+  - first:
+      213: -8361089526782478174
+    second: riviere uruz start 9 colonnes 4 lignes_14
+  - first:
+      213: 912804556105913848
+    second: riviere uruz start 9 colonnes 4 lignes_15
+  - first:
+      213: -3320224879767384443
+    second: riviere uruz start 9 colonnes 4 lignes_16
+  - first:
+      213: -6312545980362388260
+    second: riviere uruz start 9 colonnes 4 lignes_17
+  - first:
+      213: 5191504558889693313
+    second: riviere uruz start 9 colonnes 4 lignes_18
+  - first:
+      213: -5254572313899440448
+    second: riviere uruz start 9 colonnes 4 lignes_19
+  - first:
+      213: -7098115192757743899
+    second: riviere uruz start 9 colonnes 4 lignes_20
+  - first:
+      213: -2806722355175906796
+    second: riviere uruz start 9 colonnes 4 lignes_21
+  - first:
+      213: 6185207456432047832
+    second: riviere uruz start 9 colonnes 4 lignes_22
+  - first:
+      213: 1811741901162622236
+    second: riviere uruz start 9 colonnes 4 lignes_23
+  - first:
+      213: -1470616026682376373
+    second: riviere uruz start 9 colonnes 4 lignes_24
+  - first:
+      213: -7280664826403422619
+    second: riviere uruz start 9 colonnes 4 lignes_25
+  - first:
+      213: 8954655511594994970
+    second: riviere uruz start 9 colonnes 4 lignes_26
+  - first:
+      213: 3709353363346378961
+    second: riviere uruz start 9 colonnes 4 lignes_27
+  - first:
+      213: 4718302526041487984
+    second: riviere uruz start 9 colonnes 4 lignes_28
+  - first:
+      213: 4276497574279824310
+    second: riviere uruz start 9 colonnes 4 lignes_29
+  - first:
+      213: -366266732675244073
+    second: riviere uruz start 9 colonnes 4 lignes_30
+  - first:
+      213: -8690450248402113943
+    second: riviere uruz start 9 colonnes 4 lignes_31
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: riviere uruz start 9 colonnes 4 lignes_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 852
+        width: 751
+        height: 284
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea9f9cd13961c210800000000000000
+      internalID: 1351477026063620832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riviere uruz start 9 colonnes 4 lignes_1
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 852
+        width: 751
+        height: 284
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11b4baa9ceb8b0f0800000000000000
+      internalID: -1100920335530413793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riviere uruz start 9 colonnes 4 lignes_2
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 852
+        width: 751
+        height: 284
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f214297ab1a690bb0800000000000000
+      internalID: -4969324046818590417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riviere uruz start 9 colonnes 4 lignes_3
+      rect:
+        serializedVersion: 2
+        x: 2253
+        y: 852
+        width: 751
+        height: 284
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f194a080a80ddb90800000000000000
+      internalID: -7215601542531608078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riviere uruz start 9 colonnes 4 lignes_4
+      rect:
+        serializedVersion: 2
+        x: 3004
+        y: 852
+        width: 751
+        height: 284
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3897f667d9c19e0800000000000000
+      internalID: -1649270231522507859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riviere uruz start 9 colonnes 4 lignes_5
+      rect:
+        serializedVersion: 2
+        x: 3755
+        y: 852
+        width: 751
+        height: 284
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d039d8bff178a4b0800000000000000
+      internalID: -5428964007663292202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riviere uruz start 9 colonnes 4 lignes_6
+      rect:
+        serializedVersion: 2
+        x: 4506
+        y: 852
+        width: 751
+        height: 284
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70646151e38f96c0800000000000000
+      internalID: -4134440929146412931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riviere uruz start 9 colonnes 4 lignes_7
+      rect:
+        serializedVersion: 2
+        x: 5257
+        y: 852
+        width: 751
+        height: 284
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7cddb2b09eb64e0800000000000000
+      internalID: -1987238576364075050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riviere uruz start 9 colonnes 4 lignes_8
+      rect:
+        serializedVersion: 2
+        x: 6008
+        y: 852
+        width: 751
+        height: 284
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a99fd491c3b73a800800000000000000
+      internalID: 622476671560055194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riviere uruz start 9 colonnes 4 lignes_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 568
+        width: 751
+        height: 284
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5542c6d56fc2c45c0800000000000000
+      internalID: -4229956513366793131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riviere uruz start 9 colonnes 4 lignes_10
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 568
+        width: 751
+        height: 284
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f981fcd46c94c1770800000000000000
+      internalID: 8582816105919092895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riviere uruz start 9 colonnes 4 lignes_11
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 568
+        width: 751
+        height: 284
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b6d23b425acdea0800000000000000
+      internalID: -5846616639190242438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riviere uruz start 9 colonnes 4 lignes_12
+      rect:
+        serializedVersion: 2
+        x: 2253
+        y: 568
+        width: 751
+        height: 284
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c1cff224aa6ac50800000000000000
+      internalID: 6676210698872953883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riviere uruz start 9 colonnes 4 lignes_13
+      rect:
+        serializedVersion: 2
+        x: 3004
+        y: 568
+        width: 751
+        height: 284
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95044d6fa159eb550800000000000000
+      internalID: 6178539681841692761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riviere uruz start 9 colonnes 4 lignes_14
+      rect:
+        serializedVersion: 2
+        x: 3755
+        y: 568
+        width: 751
+        height: 284
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a834e4df5177fb80800000000000000
+      internalID: -8361089526782478174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riviere uruz start 9 colonnes 4 lignes_15
+      rect:
+        serializedVersion: 2
+        x: 4506
+        y: 568
+        width: 751
+        height: 284
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f51d0458eeeaac00800000000000000
+      internalID: 912804556105913848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riviere uruz start 9 colonnes 4 lignes_16
+      rect:
+        serializedVersion: 2
+        x: 5257
+        y: 568
+        width: 751
+        height: 284
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e0d0b20113ce1d0800000000000000
+      internalID: -3320224879767384443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riviere uruz start 9 colonnes 4 lignes_17
+      rect:
+        serializedVersion: 2
+        x: 6008
+        y: 568
+        width: 751
+        height: 284
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc0e2c40e45568a0800000000000000
+      internalID: -6312545980362388260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riviere uruz start 9 colonnes 4 lignes_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 284
+        width: 751
+        height: 284
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180f07af3edeb0840800000000000000
+      internalID: 5191504558889693313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riviere uruz start 9 colonnes 4 lignes_19
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 284
+        width: 751
+        height: 284
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c6eb6702520417b0800000000000000
+      internalID: -5254572313899440448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riviere uruz start 9 colonnes 4 lignes_20
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 284
+        width: 751
+        height: 284
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee0fd0f6dd6e7d90800000000000000
+      internalID: -7098115192757743899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riviere uruz start 9 colonnes 4 lignes_21
+      rect:
+        serializedVersion: 2
+        x: 2253
+        y: 284
+        width: 751
+        height: 284
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412a79c73e48c09d0800000000000000
+      internalID: -2806722355175906796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riviere uruz start 9 colonnes 4 lignes_22
+      rect:
+        serializedVersion: 2
+        x: 3004
+        y: 284
+        width: 751
+        height: 284
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d6cab6396546d550800000000000000
+      internalID: 6185207456432047832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riviere uruz start 9 colonnes 4 lignes_23
+      rect:
+        serializedVersion: 2
+        x: 3755
+        y: 284
+        width: 751
+        height: 284
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d2d7bf8a9942910800000000000000
+      internalID: 1811741901162622236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riviere uruz start 9 colonnes 4 lignes_24
+      rect:
+        serializedVersion: 2
+        x: 4506
+        y: 284
+        width: 751
+        height: 284
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4fb990f382579be0800000000000000
+      internalID: -1470616026682376373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riviere uruz start 9 colonnes 4 lignes_25
+      rect:
+        serializedVersion: 2
+        x: 5257
+        y: 284
+        width: 751
+        height: 284
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56efa8d3ae1e5fa90800000000000000
+      internalID: -7280664826403422619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riviere uruz start 9 colonnes 4 lignes_26
+      rect:
+        serializedVersion: 2
+        x: 6008
+        y: 284
+        width: 751
+        height: 284
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d0d967eb3554c70800000000000000
+      internalID: 8954655511594994970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riviere uruz start 9 colonnes 4 lignes_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 751
+        height: 284
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d059a02b354a7330800000000000000
+      internalID: 3709353363346378961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riviere uruz start 9 colonnes 4 lignes_28
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 0
+        width: 751
+        height: 284
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07af7871627ca7140800000000000000
+      internalID: 4718302526041487984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riviere uruz start 9 colonnes 4 lignes_29
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 0
+        width: 751
+        height: 284
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b3c4cdc2eb295b30800000000000000
+      internalID: 4276497574279824310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riviere uruz start 9 colonnes 4 lignes_30
+      rect:
+        serializedVersion: 2
+        x: 2253
+        y: 0
+        width: 751
+        height: 284
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df59d1e852caeaf0800000000000000
+      internalID: -366266732675244073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riviere uruz start 9 colonnes 4 lignes_31
+      rect:
+        serializedVersion: 2
+        x: 3004
+        y: 0
+        width: 751
+        height: 284
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a69c50b81556780800000000000000
+      internalID: -8690450248402113943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
