@@ -15,6 +15,10 @@ public class TextBoxManager : MonoBehaviour
     public int currentLine;
     public int endAtLine;
 
+    public float timeSet;
+
+    public bool automaticReading;
+
     public CustomCharacterController player;
 
     public void Start()
@@ -36,9 +40,15 @@ public class TextBoxManager : MonoBehaviour
     {
         theText.text = textLines[currentLine];
 
-        if (Input.GetButtonDown("Cancel"))
+        if (Input.GetButtonDown("Cancel") && automaticReading == false)
         {
             currentLine += 1;
+        }
+
+        if(automaticReading == true)
+        {
+                StartCoroutine(SkipText());
+           
         }
 
         if(currentLine > endAtLine)
@@ -46,5 +56,11 @@ public class TextBoxManager : MonoBehaviour
             textBox.SetActive(false);
             DestroyObject(gameObject);
         }
+    }
+
+    IEnumerator SkipText()
+    {
+        yield return new WaitForSeconds(timeSet);
+        currentLine += 1;
     }
 }
