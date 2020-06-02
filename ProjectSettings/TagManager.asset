@@ -12,6 +12,9 @@ TagManager:
   - Activator
   - CameraLow
   - CameraLarge
+  - CameraEventShort
+  - Tutorial
+  - CameraEventLarge
   layers:
   - Default
   - TransparentFX
@@ -27,7 +30,7 @@ TagManager:
   - IgnoreTrigger Layer
   - Clamp Cam
   - Background
-  - 
+  - postprocess test
   - 
   - 
   - 
