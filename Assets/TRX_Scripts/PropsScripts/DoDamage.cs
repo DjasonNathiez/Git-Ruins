@@ -7,6 +7,7 @@ public class DoDamage :  MonoBehaviour
     private GameObject player;
     private Collider2D playerCollider;
     private Collider2D objectCollider;
+    private PlayerDeath script;
 
     private void Start()
     {
@@ -19,7 +20,9 @@ public class DoDamage :  MonoBehaviour
     {
         if (playerCollider.IsTouching(objectCollider))
         GameObject.FindWithTag("Player").SendMessage("Death");
-        FindObjectOfType<SoundManager>().PlaySound("Player Death");
+        //gameObject.GetComponent<DoDamage>().enabled = false;    
+        /*script = player.GetComponent<PlayerDeath>();
+        script.enabled = false;*/
     }
     
 
