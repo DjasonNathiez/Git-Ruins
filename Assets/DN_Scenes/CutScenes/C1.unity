@@ -365,6 +365,16 @@ PrefabInstance:
       propertyPath: theText
       value: 
       objectReference: {fileID: 1582710052}
+    - target: {fileID: 2580132434112042694, guid: 5a87e026cfb07db429e9e20d8425ada4,
+        type: 3}
+      propertyPath: automaticReading
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2580132434112042694, guid: 5a87e026cfb07db429e9e20d8425ada4,
+        type: 3}
+      propertyPath: timeSet
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2580132434112042695, guid: 5a87e026cfb07db429e9e20d8425ada4,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -483,6 +493,31 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8897060425814833041, guid: 412099ced89f8a342b018f637b554312,
+        type: 3}
+      propertyPath: sounds.Array.size
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8897060425814833041, guid: 412099ced89f8a342b018f637b554312,
+        type: 3}
+      propertyPath: sounds.Array.data[7].nameClip
+      value: Narrator Voice
+      objectReference: {fileID: 0}
+    - target: {fileID: 8897060425814833041, guid: 412099ced89f8a342b018f637b554312,
+        type: 3}
+      propertyPath: sounds.Array.data[7].clip
+      value: 
+      objectReference: {fileID: 8300000, guid: 7d2147449b194364c85b9a78ab460529, type: 3}
+    - target: {fileID: 8897060425814833041, guid: 412099ced89f8a342b018f637b554312,
+        type: 3}
+      propertyPath: sounds.Array.data[7].volume
+      value: 0.15
+      objectReference: {fileID: 0}
+    - target: {fileID: 8897060425814833041, guid: 412099ced89f8a342b018f637b554312,
+        type: 3}
+      propertyPath: sounds.Array.data[7].pitch
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8897060425814833046, guid: 412099ced89f8a342b018f637b554312,
         type: 3}

@@ -12,8 +12,8 @@ public class CutScene_Events_CS1 : MonoBehaviour
     public void Start()
     {
         textBoxManager = FindObjectOfType<TextBoxManager>();
-
         FindObjectOfType<SoundManager>().PlaySound("Narrator Voice");
+
     }
 
     // Update is called once per frame
@@ -26,5 +26,7 @@ public class CutScene_Events_CS1 : MonoBehaviour
         {
             SceneManager.LoadScene(index);
         }
+
+        
     }
 }
