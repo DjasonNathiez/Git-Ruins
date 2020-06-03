@@ -14,11 +14,19 @@ public class AssembleRune : MonoBehaviour
     private Animator playerAnimator;
     public GameObject runeParticle;
 
+    [Header("FX Temple")]
     public GameObject templeFX1;
     public GameObject templeFX2;
     public GameObject templeFX3;
     public GameObject templeFX4;
     public GameObject templeFX5;
+
+    [Header("Corruption")]
+    public GameObject corruptionTemple;
+    public GameObject corruption1;
+
+    [Header("Rivière Uruz")]
+    public Animator riviereUruz; 
 
 
     // Start is called before the first frame update
@@ -44,12 +52,14 @@ public class AssembleRune : MonoBehaviour
     IEnumerator Timeline()
     {
         //Téléportation dans la scène
-        yield return new WaitForSeconds(2.5f);
+        yield return new WaitForSeconds(1.2f);
+        runeParticle.SetActive(true);
 
         //Apparition de la Rune + Fusion de la Rune
-        runeParticle.SetActive(true);
         yield return new WaitForSeconds(4.5f);
         runeUniteAnimator.SetBool("Reunite", true);
+        yield return new WaitForSeconds(1.5f);
+
         runeParticle.SetActive(false);
         //Insérer le Flash
         Debug.Log("Réuni");
