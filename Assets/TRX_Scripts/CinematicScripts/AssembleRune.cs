@@ -78,6 +78,7 @@ public class AssembleRune : MonoBehaviour
         runeUniteAnimator = GameObject.Find("RunesUnite").GetComponent<Animator>();
         playerAnimator = GameObject.FindWithTag("Player").GetComponent<Animator>();
 
+
         //playerAnimator.SetBool("Apparition", true);
     }
     private void Update()
@@ -100,6 +101,7 @@ public class AssembleRune : MonoBehaviour
     IEnumerator Timeline()
     {
         //Téléportation dans la scène
+
         yield return new WaitForSeconds(0.5f);
         playerRigidbody.constraints = RigidbodyConstraints2D.FreezePosition;
         yield return new WaitForSeconds(1.5f);
@@ -112,7 +114,7 @@ public class AssembleRune : MonoBehaviour
         yield return new WaitForSeconds(2.5f);
         isShaking = false;
         runeUniteAnimator.SetBool("Reunite", true);
-        yield return new WaitForSeconds(1.5f);
+        yield return new WaitForSeconds(1.2f);
 
         //FLASH + Disparition de la Corruption
         runeParticle.SetActive(false);
@@ -124,14 +126,13 @@ public class AssembleRune : MonoBehaviour
         //Circuit Uruz
         circuitUruz.SetActive(true);
         flash.SetActive(false);
-        yield return new WaitForSeconds(6.0f);
 
         //Rivière Uruz Start 
-        riviereUruz.SetBool("RiviereStarting", true);
         yield return new WaitForSeconds(4.0f);
-
+        riviereUruz.SetBool("RiviereStarting", true);
         //Boules d'énergie du Temple + Corruption Temple qui part
         //circuitUruz.SetActive(false);
+        yield return new WaitForSeconds(3.0f);
         templeCorru.enabled = true;
         templeFX.SetActive(true);
 

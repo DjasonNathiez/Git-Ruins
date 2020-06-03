@@ -1,0 +1,2344 @@
+fileFormatVersion: 2
+guid: 3a2d993ce9af05048a3562473c2b26b4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2547362413628071634
+    second: waking up_0
+  - first:
+      213: 8397003067270508531
+    second: waking up_1
+  - first:
+      213: 3187005056790667188
+    second: waking up_2
+  - first:
+      213: -280411718740082024
+    second: waking up_3
+  - first:
+      213: -6930947577632163453
+    second: waking up_4
+  - first:
+      213: 2638682090230797014
+    second: waking up_5
+  - first:
+      213: 34761075818868785
+    second: waking up_6
+  - first:
+      213: -72694050924692068
+    second: waking up_7
+  - first:
+      213: 5394601567535808816
+    second: waking up_8
+  - first:
+      213: -8887901953054173050
+    second: waking up_9
+  - first:
+      213: -5912473025490399298
+    second: waking up_10
+  - first:
+      213: 6826008506834348269
+    second: waking up_11
+  - first:
+      213: -5204703467794953074
+    second: waking up_12
+  - first:
+      213: -8409302363842733974
+    second: waking up_13
+  - first:
+      213: -1464420261812383114
+    second: waking up_14
+  - first:
+      213: 5629787120478130554
+    second: waking up_15
+  - first:
+      213: 6691872793681813137
+    second: waking up_16
+  - first:
+      213: 4475500914304940883
+    second: waking up_17
+  - first:
+      213: 8571731182842817315
+    second: waking up_18
+  - first:
+      213: 394966351157458046
+    second: waking up_19
+  - first:
+      213: -5259380928460352859
+    second: waking up_20
+  - first:
+      213: -598857880385428840
+    second: waking up_21
+  - first:
+      213: 2551639189174053164
+    second: waking up_22
+  - first:
+      213: 5577993706721167989
+    second: waking up_23
+  - first:
+      213: 2560415133759327039
+    second: waking up_24
+  - first:
+      213: -5643476255674978907
+    second: waking up_25
+  - first:
+      213: 1440509297260041765
+    second: waking up_26
+  - first:
+      213: -1062064130179721902
+    second: waking up_27
+  - first:
+      213: -8254178415862289563
+    second: waking up_28
+  - first:
+      213: 8675526314426039818
+    second: waking up_29
+  - first:
+      213: -5628918753466103410
+    second: waking up_30
+  - first:
+      213: 3639875295679812200
+    second: waking up_31
+  - first:
+      213: 5357832610438278006
+    second: waking up_32
+  - first:
+      213: -2993095014174659644
+    second: waking up_33
+  - first:
+      213: 5292163025853027176
+    second: waking up_34
+  - first:
+      213: 8025366780760353182
+    second: waking up_35
+  - first:
+      213: -5862798984685960162
+    second: waking up_36
+  - first:
+      213: -7413112466205976315
+    second: waking up_37
+  - first:
+      213: -7352487416549504590
+    second: waking up_38
+  - first:
+      213: 5139027674120562194
+    second: waking up_39
+  - first:
+      213: 1011523656201576082
+    second: waking up_40
+  - first:
+      213: -2007284120090699792
+    second: waking up_41
+  - first:
+      213: -6956233256002707514
+    second: waking up_42
+  - first:
+      213: 903232084081912310
+    second: waking up_43
+  - first:
+      213: -3658166994639531617
+    second: waking up_44
+  - first:
+      213: 7251101236996882432
+    second: waking up_45
+  - first:
+      213: -2413887409235946599
+    second: waking up_46
+  - first:
+      213: -1737323317090591947
+    second: waking up_47
+  - first:
+      213: 4514393152441861806
+    second: waking up_48
+  - first:
+      213: 8008535862321952020
+    second: waking up_49
+  - first:
+      213: 4969280163953628331
+    second: waking up_50
+  - first:
+      213: -7891557670130186528
+    second: waking up_51
+  - first:
+      213: 1106453795034107487
+    second: waking up_52
+  - first:
+      213: -7059909714656104299
+    second: waking up_53
+  - first:
+      213: 5260892078222837737
+    second: waking up_54
+  - first:
+      213: 5376930316814139241
+    second: waking up_55
+  - first:
+      213: 4833703679946573286
+    second: waking up_56
+  - first:
+      213: 3873364593599946331
+    second: waking up_57
+  - first:
+      213: -989000892700513589
+    second: waking up_58
+  - first:
+      213: -7158367800448514858
+    second: waking up_59
+  - first:
+      213: 4207641546109850019
+    second: waking up_60
+  - first:
+      213: 4732221459542037126
+    second: waking up_61
+  - first:
+      213: -5055692752401260494
+    second: waking up_62
+  - first:
+      213: 1228702637323257726
+    second: waking up_63
+  - first:
+      213: 187735922781762332
+    second: waking up_64
+  - first:
+      213: -5139291220270725036
+    second: waking up_65
+  - first:
+      213: -1140602078221962915
+    second: waking up_66
+  - first:
+      213: 8357296699254699825
+    second: waking up_67
+  - first:
+      213: -2550181227581258492
+    second: waking up_68
+  - first:
+      213: -4700737735122807175
+    second: waking up_69
+  - first:
+      213: -2224765581666495789
+    second: waking up_70
+  - first:
+      213: -196841028679655173
+    second: waking up_71
+  - first:
+      213: 5960369407203230553
+    second: waking up_72
+  - first:
+      213: -2843947217269942405
+    second: waking up_73
+  - first:
+      213: -7796946109460831687
+    second: waking up_74
+  - first:
+      213: -4385827668612213642
+    second: waking up_75
+  - first:
+      213: -5548410318969018919
+    second: waking up_76
+  - first:
+      213: 5749837280087037326
+    second: waking up_77
+  - first:
+      213: -1737417239109139269
+    second: waking up_78
+  - first:
+      213: 580923736214145051
+    second: waking up_79
+  - first:
+      213: 3142466723074214700
+    second: waking up_80
+  - first:
+      213: 1976738400456229841
+    second: waking up_81
+  - first:
+      213: -1355112080845185735
+    second: waking up_82
+  - first:
+      213: -4240543934747237980
+    second: waking up_0
+  - first:
+      213: 1342962628884097764
+    second: waking up_1
+  - first:
+      213: 4340185557857739960
+    second: waking up_2
+  - first:
+      213: -4153148838822329190
+    second: waking up_3
+  - first:
+      213: 3953876568327478122
+    second: waking up_4
+  - first:
+      213: -1812367732088613622
+    second: waking up_5
+  - first:
+      213: -4039446278919154702
+    second: waking up_6
+  - first:
+      213: -1239706601326518587
+    second: waking up_7
+  - first:
+      213: 3678446133565662466
+    second: waking up_8
+  - first:
+      213: -7905308928791191871
+    second: waking up_9
+  - first:
+      213: -2507713414640046365
+    second: waking up_10
+  - first:
+      213: -4202639665115894721
+    second: waking up_11
+  - first:
+      213: -34939352219461493
+    second: waking up_12
+  - first:
+      213: 6379936533597502830
+    second: waking up_13
+  - first:
+      213: -7802280461375283987
+    second: waking up_14
+  - first:
+      213: 1438594750040259307
+    second: waking up_15
+  - first:
+      213: 4001993094190396895
+    second: waking up_16
+  - first:
+      213: 96471277264267955
+    second: waking up_17
+  - first:
+      213: 970741841962512207
+    second: waking up_18
+  - first:
+      213: -2412896305984063169
+    second: waking up_19
+  - first:
+      213: -1919726887698716134
+    second: waking up_20
+  - first:
+      213: 5112472091846051497
+    second: waking up_21
+  - first:
+      213: 4735989835675190367
+    second: waking up_22
+  - first:
+      213: -7919495239806760538
+    second: waking up_23
+  - first:
+      213: 8891124438968052883
+    second: waking up_24
+  - first:
+      213: -3451669253284246271
+    second: waking up_25
+  - first:
+      213: -6454224507116020925
+    second: waking up_26
+  - first:
+      213: -4556700972707029717
+    second: waking up_27
+  - first:
+      213: -566207153400325913
+    second: waking up_28
+  - first:
+      213: -3477086822252028302
+    second: waking up_29
+  - first:
+      213: -473205519755293507
+    second: waking up_30
+  - first:
+      213: 147240984612696073
+    second: waking up_31
+  - first:
+      213: 4145752400100216628
+    second: waking up_32
+  - first:
+      213: -5178090238084976319
+    second: waking up_33
+  - first:
+      213: -135867885553939222
+    second: waking up_34
+  - first:
+      213: 5734417775660835374
+    second: waking up_35
+  - first:
+      213: -8171902633392326079
+    second: waking up_36
+  - first:
+      213: -4298444357878037430
+    second: waking up_37
+  - first:
+      213: -3908499800937512396
+    second: waking up_38
+  - first:
+      213: -19526824160383256
+    second: waking up_39
+  - first:
+      213: 5147299813665911612
+    second: waking up_40
+  - first:
+      213: 4326683372790674084
+    second: waking up_41
+  - first:
+      213: -1710958211071060708
+    second: waking up_42
+  - first:
+      213: 93018726775922936
+    second: waking up_43
+  - first:
+      213: 2667030601336488583
+    second: waking up_44
+  - first:
+      213: -5373384594972911040
+    second: waking up_45
+  - first:
+      213: 812317171289053123
+    second: waking up_46
+  - first:
+      213: -4291406589337381227
+    second: waking up_47
+  - first:
+      213: 7839169930957739357
+    second: waking up_48
+  - first:
+      213: -2607375341575729864
+    second: waking up_49
+  - first:
+      213: 5980758018717539718
+    second: waking up_50
+  - first:
+      213: -3894569821203397501
+    second: waking up_51
+  - first:
+      213: 2556151035789270776
+    second: waking up_52
+  - first:
+      213: -923377171834471314
+    second: waking up_53
+  - first:
+      213: 6248053588962436677
+    second: waking up_54
+  - first:
+      213: -8475433148372925635
+    second: waking up_55
+  - first:
+      213: -2605712582512244298
+    second: waking up_56
+  - first:
+      213: 198976368706729750
+    second: waking up_57
+  - first:
+      213: 7816827256036408521
+    second: waking up_58
+  - first:
+      213: -4646175678103936521
+    second: waking up_59
+  - first:
+      213: -4361581392973592966
+    second: waking up_60
+  - first:
+      213: -5803087235856452823
+    second: waking up_61
+  - first:
+      213: 1607785222155332958
+    second: waking up_62
+  - first:
+      213: -7959243470032395643
+    second: waking up_63
+  - first:
+      213: -5135963890381085467
+    second: waking up_64
+  - first:
+      213: -2136892129104226746
+    second: waking up_65
+  - first:
+      213: 8716368758487422277
+    second: waking up_66
+  - first:
+      213: -4592735355012670868
+    second: waking up_67
+  - first:
+      213: -1359100321932396256
+    second: waking up_68
+  - first:
+      213: 3144159868039093075
+    second: waking up_69
+  - first:
+      213: -8987687165743707119
+    second: waking up_70
+  - first:
+      213: 2211681764713960839
+    second: waking up_71
+  - first:
+      213: 4175094280111833912
+    second: waking up_72
+  - first:
+      213: 3561466725143521911
+    second: waking up_73
+  - first:
+      213: -4912959602157224158
+    second: waking up_74
+  - first:
+      213: -4047687624789278285
+    second: waking up_75
+  - first:
+      213: 9218508316392289456
+    second: waking up_76
+  - first:
+      213: 3691830245305878810
+    second: waking up_77
+  - first:
+      213: 5254934981424596560
+    second: waking up_78
+  - first:
+      213: -8612959163772447785
+    second: waking up_79
+  - first:
+      213: -7515066207676092989
+    second: waking up_80
+  - first:
+      213: -3638290848044606611
+    second: waking up_81
+  - first:
+      213: 1387566705122352482
+    second: waking up_82
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: waking up_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 53
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a124fa32cf8625c0800000000000000
+      internalID: -4240543934747237980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waking up_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 0
+        width: 53
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eae249456923a210800000000000000
+      internalID: 1342962628884097764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waking up_2
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 0
+        width: 53
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4246305cf6b3c30800000000000000
+      internalID: 4340185557857739960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waking up_3
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 0
+        width: 53
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a944baaa22d0d56c0800000000000000
+      internalID: -4153148838822329190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waking up_4
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 0
+        width: 53
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b56e45acdfed630800000000000000
+      internalID: 3953876568327478122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waking up_5
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 0
+        width: 53
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a055a76662d29d6e0800000000000000
+      internalID: -1812367732088613622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waking up_6
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 0
+        width: 53
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f310cfd20101f7c0800000000000000
+      internalID: -4039446278919154702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waking up_7
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 0
+        width: 53
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ced9321a6dabcee0800000000000000
+      internalID: -1239706601326518587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waking up_8
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 0
+        width: 53
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205279ce4477c0330800000000000000
+      internalID: 3678446133565662466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waking up_9
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 0
+        width: 53
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce5da3d963ba4290800000000000000
+      internalID: -7905308928791191871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waking up_10
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 0
+        width: 53
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eee5e19fefc23dd0800000000000000
+      internalID: -2507713414640046365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waking up_11
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 0
+        width: 53
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3cecc9bd793da5c0800000000000000
+      internalID: -4202639665115894721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waking up_12
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 0
+        width: 53
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b88d64228ded38ff0800000000000000
+      internalID: -34939352219461493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waking up_13
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 0
+        width: 53
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6dbd9699761a8850800000000000000
+      internalID: 6379936533597502830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waking up_14
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 0
+        width: 53
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec51c5324bb8b390800000000000000
+      internalID: -7802280461375283987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waking up_15
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 0
+        width: 53
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea34eb9d4ae6f310800000000000000
+      internalID: 1438594750040259307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waking up_16
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 0
+        width: 53
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5f8c4048fe98730800000000000000
+      internalID: 4001993094190396895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waking up_17
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 0
+        width: 53
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba6d549d1cb65100800000000000000
+      internalID: 96471277264267955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waking up_18
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 0
+        width: 53
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4fa8c2ef84c87d00800000000000000
+      internalID: 970741841962512207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waking up_19
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 0
+        width: 53
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39b7f1089ba38ed0800000000000000
+      internalID: -2412896305984063169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waking up_20
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 0
+        width: 53
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1aa3f81192cb55e0800000000000000
+      internalID: -1919726887698716134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waking up_21
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 0
+        width: 53
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6059ec74623f640800000000000000
+      internalID: 5112472091846051497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waking up_22
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 0
+        width: 53
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54c747c9ad99b140800000000000000
+      internalID: 4735989835675190367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waking up_23
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 0
+        width: 53
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9cbe6e90d481290800000000000000
+      internalID: -7919495239806760538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waking up_24
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 0
+        width: 53
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c2c7ee19e936b70800000000000000
+      internalID: 8891124438968052883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waking up_25
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 0
+        width: 53
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10dcad31a153910d0800000000000000
+      internalID: -3451669253284246271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waking up_26
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 0
+        width: 53
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b9ab8b10dfd66a0800000000000000
+      internalID: -6454224507116020925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waking up_27
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 0
+        width: 53
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2dde169b9853c0c0800000000000000
+      internalID: -4556700972707029717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waking up_28
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 0
+        width: 53
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8d948089d6428f0800000000000000
+      internalID: -566207153400325913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waking up_29
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 0
+        width: 53
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ed97225f7eebfc0800000000000000
+      internalID: -3477086822252028302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waking up_30
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 0
+        width: 53
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc4b314616de69f0800000000000000
+      internalID: -473205519755293507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waking up_31
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 0
+        width: 53
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900f73835ea1b0200800000000000000
+      internalID: 147240984612696073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waking up_32
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 0
+        width: 53
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f42beb7dba88930800000000000000
+      internalID: 4145752400100216628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waking up_33
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 0
+        width: 53
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141f608fc5ab328b0800000000000000
+      internalID: -5178090238084976319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waking up_34
+      rect:
+        serializedVersion: 2
+        x: 1802
+        y: 0
+        width: 53
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec8c21c0ec4d1ef0800000000000000
+      internalID: -135867885553939222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waking up_35
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 0
+        width: 53
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2223ffa59eb49f40800000000000000
+      internalID: 5734417775660835374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waking up_36
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 0
+        width: 53
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a329df9d1979e80800000000000000
+      internalID: -8171902633392326079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waking up_37
+      rect:
+        serializedVersion: 2
+        x: 1961
+        y: 0
+        width: 53
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44c5e171abd854c0800000000000000
+      internalID: -4298444357878037430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waking up_38
+      rect:
+        serializedVersion: 2
+        x: 2014
+        y: 0
+        width: 53
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4324f60a32832c9c0800000000000000
+      internalID: -3908499800937512396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waking up_39
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 0
+        width: 53
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee2456f470aabff0800000000000000
+      internalID: -19526824160383256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waking up_40
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 0
+        width: 53
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c33bdf1b8e1ee6740800000000000000
+      internalID: 5147299813665911612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waking up_41
+      rect:
+        serializedVersion: 2
+        x: 2173
+        y: 0
+        width: 53
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2f6c29a977b0c30800000000000000
+      internalID: 4326683372790674084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waking up_42
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 0
+        width: 53
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c15529372947148e0800000000000000
+      internalID: -1710958211071060708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waking up_43
+      rect:
+        serializedVersion: 2
+        x: 2279
+        y: 0
+        width: 53
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f020f60a087a4100800000000000000
+      internalID: 93018726775922936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waking up_44
+      rect:
+        serializedVersion: 2
+        x: 2332
+        y: 0
+        width: 53
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78202cd8332330520800000000000000
+      internalID: 2667030601336488583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waking up_45
+      rect:
+        serializedVersion: 2
+        x: 2385
+        y: 0
+        width: 53
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a55172e27ed65b0800000000000000
+      internalID: -5373384594972911040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waking up_46
+      rect:
+        serializedVersion: 2
+        x: 2438
+        y: 0
+        width: 53
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c752a7d92ee54b00800000000000000
+      internalID: 812317171289053123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waking up_47
+      rect:
+        serializedVersion: 2
+        x: 2491
+        y: 0
+        width: 53
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59656cf917cd174c0800000000000000
+      internalID: -4291406589337381227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waking up_48
+      rect:
+        serializedVersion: 2
+        x: 2544
+        y: 0
+        width: 53
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d55d8acb4835acc60800000000000000
+      internalID: 7839169930957739357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waking up_49
+      rect:
+        serializedVersion: 2
+        x: 2597
+        y: 0
+        width: 53
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d0449f0fdb0dbd0800000000000000
+      internalID: -2607375341575729864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waking up_50
+      rect:
+        serializedVersion: 2
+        x: 2650
+        y: 0
+        width: 53
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d5a390bbbeff250800000000000000
+      internalID: 5980758018717539718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waking up_51
+      rect:
+        serializedVersion: 2
+        x: 2703
+        y: 0
+        width: 53
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3840736c165b3f9c0800000000000000
+      internalID: -3894569821203397501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waking up_52
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 0
+        width: 53
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe5770f2d5497320800000000000000
+      internalID: 2556151035789270776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waking up_53
+      rect:
+        serializedVersion: 2
+        x: 2809
+        y: 0
+        width: 53
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6cf91fba518f23f0800000000000000
+      internalID: -923377171834471314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waking up_54
+      rect:
+        serializedVersion: 2
+        x: 2862
+        y: 0
+        width: 53
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 546e5b3b2ab85b650800000000000000
+      internalID: 6248053588962436677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waking up_55
+      rect:
+        serializedVersion: 2
+        x: 2915
+        y: 0
+        width: 53
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3349a1d476316a80800000000000000
+      internalID: -8475433148372925635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waking up_56
+      rect:
+        serializedVersion: 2
+        x: 2968
+        y: 0
+        width: 53
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9879c3636a6dbd0800000000000000
+      internalID: -2605712582512244298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waking up_57
+      rect:
+        serializedVersion: 2
+        x: 3021
+        y: 0
+        width: 53
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617367ff3f7e2c200800000000000000
+      internalID: 198976368706729750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waking up_58
+      rect:
+        serializedVersion: 2
+        x: 3074
+        y: 0
+        width: 53
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc34aa59f2fa7c60800000000000000
+      internalID: 7816827256036408521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waking up_59
+      rect:
+        serializedVersion: 2
+        x: 3127
+        y: 0
+        width: 53
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f12e8656d7758fb0800000000000000
+      internalID: -4646175678103936521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waking up_60
+      rect:
+        serializedVersion: 2
+        x: 3180
+        y: 0
+        width: 53
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a760bdce4dc8873c0800000000000000
+      internalID: -4361581392973592966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waking up_61
+      rect:
+        serializedVersion: 2
+        x: 3233
+        y: 0
+        width: 53
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9233c22b7ea477fa0800000000000000
+      internalID: -5803087235856452823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waking up_62
+      rect:
+        serializedVersion: 2
+        x: 3286
+        y: 0
+        width: 53
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5de0b12420005610800000000000000
+      internalID: 1607785222155332958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waking up_63
+      rect:
+        serializedVersion: 2
+        x: 3339
+        y: 0
+        width: 53
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5822fdfdb361b8190800000000000000
+      internalID: -7959243470032395643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waking up_64
+      rect:
+        serializedVersion: 2
+        x: 3392
+        y: 0
+        width: 53
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e42a9e9d0469b8b0800000000000000
+      internalID: -5135963890381085467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waking up_65
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 0
+        width: 53
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6461a692eeb3852e0800000000000000
+      internalID: -2136892129104226746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waking up_66
+      rect:
+        serializedVersion: 2
+        x: 3498
+        y: 0
+        width: 53
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54594fc5433c6f870800000000000000
+      internalID: 8716368758487422277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waking up_67
+      rect:
+        serializedVersion: 2
+        x: 3551
+        y: 0
+        width: 53
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a971927835340c0800000000000000
+      internalID: -4592735355012670868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waking up_68
+      rect:
+        serializedVersion: 2
+        x: 3604
+        y: 0
+        width: 53
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029b9114571832de0800000000000000
+      internalID: -1359100321932396256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waking up_69
+      rect:
+        serializedVersion: 2
+        x: 3657
+        y: 0
+        width: 53
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b5283ddbc42ab20800000000000000
+      internalID: 3144159868039093075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waking up_70
+      rect:
+        serializedVersion: 2
+        x: 3710
+        y: 0
+        width: 53
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c428d3422554380800000000000000
+      internalID: -8987687165743707119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waking up_71
+      rect:
+        serializedVersion: 2
+        x: 3763
+        y: 0
+        width: 53
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7851cf5d8d871be10800000000000000
+      internalID: 2211681764713960839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waking up_72
+      rect:
+        serializedVersion: 2
+        x: 3816
+        y: 0
+        width: 53
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833c4dd802ae0f930800000000000000
+      internalID: 4175094280111833912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waking up_73
+      rect:
+        serializedVersion: 2
+        x: 3869
+        y: 0
+        width: 53
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77aad87fd1fdc6130800000000000000
+      internalID: 3561466725143521911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waking up_74
+      rect:
+        serializedVersion: 2
+        x: 3922
+        y: 0
+        width: 53
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ff2959549a1dbb0800000000000000
+      internalID: -4912959602157224158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waking up_75
+      rect:
+        serializedVersion: 2
+        x: 3975
+        y: 0
+        width: 53
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1c0b20d89b3d7c0800000000000000
+      internalID: -4047687624789278285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waking up_76
+      rect:
+        serializedVersion: 2
+        x: 4028
+        y: 0
+        width: 53
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b4fb85d878beef70800000000000000
+      internalID: 9218508316392289456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waking up_77
+      rect:
+        serializedVersion: 2
+        x: 4081
+        y: 0
+        width: 53
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1900864c040c3330800000000000000
+      internalID: 3691830245305878810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waking up_78
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 0
+        width: 53
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056469516874de840800000000000000
+      internalID: 5254934981424596560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waking up_79
+      rect:
+        serializedVersion: 2
+        x: 4187
+        y: 0
+        width: 53
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d3d562264f987880800000000000000
+      internalID: -8612959163772447785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waking up_80
+      rect:
+        serializedVersion: 2
+        x: 4240
+        y: 0
+        width: 53
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cdace3c91f15b790800000000000000
+      internalID: -7515066207676092989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waking up_81
+      rect:
+        serializedVersion: 2
+        x: 4293
+        y: 0
+        width: 53
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b1fbc00c1328dc0800000000000000
+      internalID: -3638290848044606611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waking up_82
+      rect:
+        serializedVersion: 2
+        x: 4346
+        y: 0
+        width: 53
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d1af01190a14310800000000000000
+      internalID: 1387566705122352482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

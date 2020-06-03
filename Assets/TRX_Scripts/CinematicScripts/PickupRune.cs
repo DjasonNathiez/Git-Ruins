@@ -44,13 +44,16 @@ public class PickupRune : MonoBehaviour
         //Enlève le ParticleSystem + Animation de Disparition
         runeParticle.SetActive(false);
         runeAnimator.SetBool("Disparition", true);
-        yield return new WaitForSeconds(2.5f);
+        playerAnimator.SetBool("Disappear", true);
+        yield return new WaitForSeconds(1.5f);
 
         //Lancer l'anim de Disparition du Golem
         playerAnimator.SetBool("Disappear", true);
+        yield return new WaitForSeconds(1.0f);
+
 
         //Flash + Changement de scène (arrivée dans le temple final)
-        SceneManager.LoadScene(9);
+        SceneManager.LoadScene(8);
 
 
     }

@@ -31,6 +31,7 @@ public class PlayerDeath : MonoBehaviour
         FindObjectOfType<SoundManager>().PlaySound("Player Death");
 
         yield return new WaitForSeconds(0.5f);
+        animator.SetBool("death", false);
 
         respawnPoint.transform.position = new Vector3(respawnPoint.transform.position.x, respawnPoint.transform.position.y, 0);
         //Teleport the player GameObject to the respawn point location

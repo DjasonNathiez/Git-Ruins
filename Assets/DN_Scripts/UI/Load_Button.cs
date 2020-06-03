@@ -5,12 +5,13 @@ using UnityEngine.SceneManagement;
 
 public class Load_Button : MonoBehaviour
 {
-
+    public GameObject gameStart;
     public GameObject Settings;
 
     public void ButtonStart()
     {
-        SceneManager.LoadScene(1);
+        //SceneManager.LoadScene(1);
+        gameStart.SetActive(true);
     }
 
     public void ButtonQuit()
