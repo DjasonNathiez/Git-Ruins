@@ -7,11 +7,21 @@ public class Load_Button : MonoBehaviour
 {
     public GameObject gameStart;
     public GameObject Settings;
+    public GameObject character;
+    private Rigidbody2D characterRigidbody;
+
+    private void Awake()
+    {
+        characterRigidbody = character.GetComponent<Rigidbody2D>();
+        characterRigidbody.constraints = RigidbodyConstraints2D.FreezePosition;
+    }
 
     public void ButtonStart()
     {
         //SceneManager.LoadScene(1);
         gameStart.SetActive(true);
+        characterRigidbody.constraints = RigidbodyConstraints2D.FreezeRotation;
+
     }
 
     public void ButtonQuit()

@@ -4110,6 +4110,11 @@ PrefabInstance:
       propertyPath: gameStart
       value: 
       objectReference: {fileID: 113564244}
+    - target: {fileID: 8187388552642086162, guid: a6d72d092083ce248a8870a4e931646c,
+        type: 3}
+      propertyPath: character
+      value: 
+      objectReference: {fileID: 4151287835863380859}
     - target: {fileID: 8187388552642086164, guid: a6d72d092083ce248a8870a4e931646c,
         type: 3}
       propertyPath: m_RenderMode

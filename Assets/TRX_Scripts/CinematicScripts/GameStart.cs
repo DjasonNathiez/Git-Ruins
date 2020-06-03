@@ -8,14 +8,21 @@ public class GameStart : MonoBehaviour
     public GameObject eventSystem;
     public GameObject mainMenu;
     public GameObject character;
+    private bool coroutineIsOn = false;
+    private IEnumerator coroutine;
 
     private Rigidbody2D characterRigidbody;
     private Animator animator;
 
+    private void Awake()
+    {
+
+    }
     // Start is called before the first frame update
     void Start()
     {
-        
+        characterRigidbody = character.GetComponent<Rigidbody2D>();
+        //characterRigidbody.constraints = RigidbodyConstraints2D.FreezePosition;
     }
 
     // Update is called once per frame
@@ -24,16 +31,23 @@ public class GameStart : MonoBehaviour
         eventSystem.SetActive(false);
         mainMenu.SetActive(false);
         //character.SetActive(true);
-        characterRigidbody = character.GetComponent<Rigidbody2D>();
         animator = character.GetComponent<Animator>();
-        StartCoroutine("Awakening");
+        //coroutine = Awakening();
+        Debug.Log("Fin de la boucle");
     }
 
-    IEnumerator Awakening()
+    public void Update()
     {
-        animator.SetBool("Awakening", true);
+        if(coroutineIsOn == false)
+            StartCoroutine(Awakening());
+    }
 
+    public IEnumerator Awakening()
+    {
+        coroutineIsOn = true;
+        animator.SetBool("Awakening", true);
         characterRigidbody.constraints = RigidbodyConstraints2D.FreezePosition;
+        Debug.Log("freeze");
         yield return new WaitForSeconds(9.0f);
         characterRigidbody.constraints = RigidbodyConstraints2D.FreezeRotation;
         Debug.Log("Awaken");
