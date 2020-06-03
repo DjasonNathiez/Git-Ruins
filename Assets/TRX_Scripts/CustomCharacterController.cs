@@ -420,7 +420,7 @@ public class CustomCharacterController : MonoBehaviour
             Invoke("StopCameraShaking", shakeTime);
     }
 
-    void StartCameraShaking()
+    public void StartCameraShaking()
     {
             float cameraShakingOffsetX = Random.value * shakeMagnitude * 2 - shakeMagnitude;
             float cameraShakingOffsetY = Random.value * shakeMagnitude * 2 - shakeMagnitude;
@@ -431,7 +431,7 @@ public class CustomCharacterController : MonoBehaviour
 
     }
 
-    void StopCameraShaking()
+    public void StopCameraShaking()
     {
             CancelInvoke("StartCameraShaking");
             mainCamera.transform.position = cameraInitialPosition;
