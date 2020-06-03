@@ -33,6 +33,6 @@ EditorBuildSettings:
     path: Assets/_BUILDS/V2.7.7/R_1.unity
     guid: 8c50f4666d4dfcd4cae519dc01a78334
   - enabled: 1
-    path: Assets/_BUILDS/V2.7.7/TEMPLE_Final.unity
-    guid: 00c0af52a859bac478aefc33f1722a60
+    path: Assets/_BUILDS/V2.7.7/TEMPLE_FINAL.unity
+    guid: ae1f5e201a32a1244b80ad0023e027b1
   m_configObjects: {}

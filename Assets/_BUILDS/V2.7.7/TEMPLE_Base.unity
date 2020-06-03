@@ -11475,6 +11475,7 @@ GameObject:
   m_Component:
   - component: {fileID: 960619116}
   - component: {fileID: 960619115}
+  - component: {fileID: 960619117}
   m_Layer: 0
   m_Name: "moiti\xE9 rune 1"
   m_TagString: Untagged
@@ -11546,6 +11547,25 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 10
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!95 &960619117
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 960619114}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 43eccb2d1fc8878478d23a9c58c8deaa, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &961255230
 GameObject:
   m_ObjectHideFlags: 0
@@ -17062,12 +17082,12 @@ PrefabInstance:
     - target: {fileID: 34131807044575858, guid: a2b9a08426dfece4da2d247dedc76a46,
         type: 3}
       propertyPath: index
-      value: 7
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 34131807044575858, guid: a2b9a08426dfece4da2d247dedc76a46,
         type: 3}
       propertyPath: LevelName
-      value: H_4
+      value: H_1
       objectReference: {fileID: 0}
     - target: {fileID: 34131807044575859, guid: a2b9a08426dfece4da2d247dedc76a46,
         type: 3}
