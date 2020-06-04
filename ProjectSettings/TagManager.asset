@@ -15,6 +15,7 @@ TagManager:
   - CameraEventShort
   - Tutorial
   - CameraEventLarge
+  - CameraEventMain
   layers:
   - Default
   - TransparentFX

@@ -141,7 +141,7 @@ public class AssembleRune : MonoBehaviour
         yield return new WaitForSeconds(15.0f);
 
 
-        SceneManager.LoadScene(0);
+        SceneManager.LoadScene(10);
 
     }
 

@@ -4943,7 +4943,7 @@ SpriteRenderer:
   m_Sprite: {fileID: -7389750215047825334, guid: 4cce12a3fcdffb84a98e2f782e79b7cd,
     type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_FlipX: 0
+  m_FlipX: 1
   m_FlipY: 0
   m_DrawMode: 0
   m_Size: {x: 0.45, y: 0.85}
@@ -17291,14 +17291,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b54905aa3b97bf7418782efabd3eba44, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  cameraSwitch: {fileID: 0}
   backgrounds:
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
   smooth: 1
-  camLow: 0
-  camLarge: 0
-  camMain: 0
+  CameraLow: {fileID: 0}
+  CameraLarge: {fileID: 0}
+  CameraMain: {fileID: 0}
 --- !u!1 &395627926735840386
 GameObject:
   m_ObjectHideFlags: 0

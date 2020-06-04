@@ -178,7 +178,7 @@ public class CustomCharacterController : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.CompareTag("CameraLow"))
+        if (collision.CompareTag("CameraEventShort"))
         {
             Debug.Log("camlow find");
             MainCam.SetActive(false);
@@ -189,7 +189,7 @@ public class CustomCharacterController : MonoBehaviour
             CameraMain = false;
         }
 
-        if (collision.CompareTag("CameraLarge"))
+        if (collision.CompareTag("CameraEventLarge"))
         {
             Debug.Log("camlarge find");
             MainCam.SetActive(false);
@@ -201,7 +201,7 @@ public class CustomCharacterController : MonoBehaviour
 
         }
 
-        if (collision.CompareTag("MainCamera"))
+        if (collision.CompareTag("CameraEventMain"))
         {
             Debug.Log("cammain find");
             MainCam.SetActive(true);
