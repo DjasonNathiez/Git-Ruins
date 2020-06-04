@@ -36,7 +36,7 @@ public class TextBoxManager : MonoBehaviour
     {
         theText.text = textLines[currentLine];
 
-        if (Input.GetButtonDown("Cancel"))
+        if (Input.anyKeyDown)
         {
             currentLine += 1;
         }
