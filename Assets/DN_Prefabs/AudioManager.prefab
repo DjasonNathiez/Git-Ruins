@@ -100,3 +100,11 @@ MonoBehaviour:
     loop: 0
     mute: 0
     source: {fileID: 0}
+  - nameClip: Activator
+    audioMixer: {fileID: 0}
+    clip: {fileID: 8300000, guid: bed817b870e3d134b82671f09ff23e34, type: 3}
+    volume: 0.3
+    pitch: 1
+    loop: 0
+    mute: 0
+    source: {fileID: 0}

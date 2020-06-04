@@ -50,7 +50,7 @@ public class Activator : MonoBehaviour
 
             Debug.Log("Activation");
             animator.SetBool("Activating", true);
-
+            FindObjectOfType<SoundManager>().PlaySound("Activator");
         }
 
     }

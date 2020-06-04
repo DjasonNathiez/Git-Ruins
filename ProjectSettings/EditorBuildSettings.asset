@@ -38,4 +38,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/DN_Scenes/CutScenes/C2.unity
     guid: 328b2f8dd6bfef84f88a509270e86aae
+  - enabled: 1
+    path: Assets/DN_Scenes/CutScenes/EndCredits.unity
+    guid: 933f0e90a9f208346897adac3502aa95
   m_configObjects: {}
