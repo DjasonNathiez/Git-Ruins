@@ -50,7 +50,7 @@ public class GameStart : MonoBehaviour
         Debug.Log("freeze");
         yield return new WaitForSeconds(9.0f);
         characterRigidbody.constraints = RigidbodyConstraints2D.FreezeRotation;
-        Debug.Log("Awaken");
+        character.GetComponent<CustomCharacterController>().enabled = true;
         StopCoroutine("Awakening");
     }
 }

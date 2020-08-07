@@ -60,10 +60,10 @@ public class CustomCharacterController : MonoBehaviour
     RaycastHit2D[] rGroundCast;
     RaycastHit2D[] rWallCast;
 
-    Vector4 cameraInitialPosition;
+    //Vector4 cameraInitialPosition;
     public float shakeMagnitude = 0.05f;
     public float shakeTime = 0.05f;
-    [SerializeField] private GameObject mainCamera;
+    //[SerializeField] private GameObject mainCamera;
 
     public bool isGrounded;
 
@@ -71,21 +71,21 @@ public class CustomCharacterController : MonoBehaviour
     private GameObject LargeCam;
     private GameObject MainCam;
 
-    public bool CameraLow;
+    /*public bool CameraLow;
     public bool CameraLarge;
-    public bool CameraMain;
+    public bool CameraMain;*/
 
     public AudioSource walkingSrc;
     public AudioClip walking;
 
-    SoundManager[] soundM;
+    //SoundManager[] soundM;
 
-    private void Awake()
+    /*private void Awake()
     {
         LowCam = GameObject.Find("Camera_Low");
         LargeCam = GameObject.Find("Camera_Large");
         MainCam = GameObject.Find("Main Camera");
-    }
+    }*/
 
     void Start()
     {
@@ -107,9 +107,9 @@ public class CustomCharacterController : MonoBehaviour
         InputCheck();
         animator.SetFloat("Speed", Mathf.Abs(speedInfo));
         ClampVelocity();
-        CameraSwitch();
+        //CameraSwitch();
 
-        if (CameraLow == true)
+        /*if (CameraLow == true)
         {
             mainCamera = LowCam;
         }
@@ -122,12 +122,12 @@ public class CustomCharacterController : MonoBehaviour
         if (CameraMain == true)
         {
             mainCamera = MainCam;
-        }
+        }*/
 
-        if (isGrounded == true)
+        /*if (isGrounded == true)
         {
             ShakeIt();
-        }
+        }*/
 
         if(Input.GetAxisRaw("Horizontal") != 0)
         { 
@@ -151,7 +151,7 @@ public class CustomCharacterController : MonoBehaviour
         WallJump();
     }
 
-    public void CameraSwitch()
+    /*public void CameraSwitch()
     {
         if (CameraMain == true)
         {
@@ -173,10 +173,10 @@ public class CustomCharacterController : MonoBehaviour
             LowCam.SetActive(false);
             LargeCam.SetActive(true);
         }
-    }
+    }*/
 
 
-    private void OnTriggerEnter2D(Collider2D collision)
+    /*private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.CompareTag("CameraEventShort"))
         {
@@ -211,7 +211,7 @@ public class CustomCharacterController : MonoBehaviour
             CameraLarge = false;
             CameraLow = false;
         }
-    }
+    }*/
 
         // Méthodes
     void ClampVelocity()
@@ -239,7 +239,7 @@ public class CustomCharacterController : MonoBehaviour
             
             if (canJump == true)
             {
-                FindObjectOfType<SoundManager>().PlaySound("Jump");
+                //FindObjectOfType<SoundManager>().PlaySound("Jump");
             }
         }
         else
@@ -406,13 +406,13 @@ public class CustomCharacterController : MonoBehaviour
             unfreeze = false;
 
             isGrounded = true;
-            FindObjectOfType<SoundManager>().PlaySound("Player Ground Impact");
+            //FindObjectOfType<SoundManager>().PlaySound("Player Ground Impact");
         }
 
 
     }
 
-    public void ShakeIt()
+    /*public void ShakeIt()
     {
 
         cameraInitialPosition = mainCamera.transform.position;
@@ -436,7 +436,7 @@ public class CustomCharacterController : MonoBehaviour
             CancelInvoke("StartCameraShaking");
             mainCamera.transform.position = cameraInitialPosition;
             isGrounded = false;
-    }
+    }*/
 
     public IEnumerator Impulse()
     {

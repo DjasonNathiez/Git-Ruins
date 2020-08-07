@@ -53,7 +53,7 @@ public class PickupRune : MonoBehaviour
 
 
         //Flash + Changement de scène (arrivée dans le temple final)
-        SceneManager.LoadScene(9);
+        SceneManager.LoadScene(10);
 
 
     }

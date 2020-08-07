@@ -12,7 +12,7 @@ public class CutScene_Events_CS1 : MonoBehaviour
     public void Start()
     {
         textBoxManager = FindObjectOfType<TextBoxManager>();
-        FindObjectOfType<SoundManager>().PlaySound("Narrator Voice");
+        //FindObjectOfType<SoundManager>().PlaySound("Narrator Voice");
 
     }
 

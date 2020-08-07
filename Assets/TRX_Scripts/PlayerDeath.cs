@@ -28,7 +28,7 @@ public class PlayerDeath : MonoBehaviour
         //play Death animation
         animator.SetBool("death", true);
         gameObject.GetComponent<Rigidbody2D>().constraints = RigidbodyConstraints2D.FreezePosition | RigidbodyConstraints2D.FreezeRotation;
-        FindObjectOfType<SoundManager>().PlaySound("Player Death");
+        //FindObjectOfType<SoundManager>().PlaySound("Player Death");
 
         yield return new WaitForSeconds(0.5f);
         animator.SetBool("death", false);
