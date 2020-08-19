@@ -8,6 +8,7 @@ public class ImpulsCristal : MonoBehaviour
     private Collider2D playerCollider;
     private CircleCollider2D cristalCollider;
     private CustomCharacterController script;
+    private Animator animator;
     
     // Start is called before the first frame update
     void Start()
@@ -16,6 +17,7 @@ public class ImpulsCristal : MonoBehaviour
         cristalCollider = GetComponent<CircleCollider2D>();
         playerCollider = player.GetComponent<Collider2D>();
         script = player.GetComponent<CustomCharacterController>();
+        animator = GetComponent<Animator>();
     }
 
      private void FixedUpdate()
@@ -24,6 +26,7 @@ public class ImpulsCristal : MonoBehaviour
          {
              script.StartCoroutine("Impulse");
             script.animator.SetBool("isImpulsing", true);
+            animator.SetBool("isImpulsing", true);
          }
 
      }
@@ -33,9 +36,11 @@ public class ImpulsCristal : MonoBehaviour
         script.canJump = false;
     }
 
-      public void OnTriggerExit2D(Collider2D collision)
+    public void OnTriggerExit2D(Collider2D collision)
     {
         script.canJump = true;
+        animator.SetBool("isImpulsing", false);
+
     }
 }
 
