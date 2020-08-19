@@ -75,6 +75,8 @@ public class CustomCharacterController : MonoBehaviour
     public bool CameraLarge;
     public bool CameraMain;*/
 
+    private AudioManager audioManager;
+
     public AudioSource walkingSrc;
     public AudioClip walking;
 
@@ -99,6 +101,7 @@ public class CustomCharacterController : MonoBehaviour
        rGroundCast = new RaycastHit2D[10];
        rWallCast = new RaycastHit2D[10];
 
+        audioManager = AudioManager.instance;
      
     }
     
@@ -129,17 +132,6 @@ public class CustomCharacterController : MonoBehaviour
             ShakeIt();
         }*/
 
-        if(Input.GetAxisRaw("Horizontal") != 0)
-        { 
-           
-        }
-        else
-        { 
-            
-        }
-
-
-
     }
     
     void FixedUpdate()
@@ -149,6 +141,8 @@ public class CustomCharacterController : MonoBehaviour
         JumpDirection();
         JumpUpdate();
         WallJump();
+
+
     }
 
     /*public void CameraSwitch()
@@ -239,7 +233,7 @@ public class CustomCharacterController : MonoBehaviour
             
             if (canJump == true)
             {
-                //FindObjectOfType<SoundManager>().PlaySound("Jump");
+                audioManager.PlaySound("jump");
             }
         }
         else
@@ -396,6 +390,7 @@ public class CustomCharacterController : MonoBehaviour
         else if (jumpInput && canImpulse)
         {
             StartCoroutine("Impulse");
+            audioManager.PlaySound("impulse");
         }
 
         //Aterissage
@@ -406,7 +401,7 @@ public class CustomCharacterController : MonoBehaviour
             unfreeze = false;
 
             isGrounded = true;
-            //FindObjectOfType<SoundManager>().PlaySound("Player Ground Impact");
+            audioManager.PlaySound("grounded");
         }
 
 
@@ -535,4 +530,8 @@ public class CustomCharacterController : MonoBehaviour
 
     }
 
+    private void Walking()
+    {
+        audioManager.PlaySound("walk");
+    }
 }
