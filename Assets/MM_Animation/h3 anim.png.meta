@@ -1,0 +1,841 @@
+fileFormatVersion: 2
+guid: d7176616ec12b254bb46c0a7417f44cf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7975337522597669891
+    second: h3 anim_0
+  - first:
+      213: -4394050476343654789
+    second: h3 anim_1
+  - first:
+      213: -4813039795459304598
+    second: h3 anim_2
+  - first:
+      213: 4334664515020858740
+    second: h3 anim_3
+  - first:
+      213: 7420047842748196375
+    second: h3 anim_4
+  - first:
+      213: 15446097097103117
+    second: h3 anim_5
+  - first:
+      213: 7288987402361685060
+    second: h3 anim_6
+  - first:
+      213: 5002774096601170318
+    second: h3 anim_7
+  - first:
+      213: -7727645375509147512
+    second: h3 anim_8
+  - first:
+      213: 7883712094632663524
+    second: h3 anim_9
+  - first:
+      213: 7290674811235117463
+    second: h3 anim_10
+  - first:
+      213: -3187286157099474313
+    second: h3 anim_11
+  - first:
+      213: -6968727760920465476
+    second: h3 anim_12
+  - first:
+      213: 4032739719562574397
+    second: h3 anim_13
+  - first:
+      213: -6487072614001138169
+    second: h3 anim_14
+  - first:
+      213: -6146518292570479874
+    second: h3 anim_15
+  - first:
+      213: 3134844128145885065
+    second: h3 anim_16
+  - first:
+      213: -4974045744176559468
+    second: h3 anim_17
+  - first:
+      213: -2343106116614683853
+    second: h3 anim_18
+  - first:
+      213: -5540562598854253852
+    second: h3 anim_19
+  - first:
+      213: -544325351268817921
+    second: h3 anim_20
+  - first:
+      213: -6523609992662190338
+    second: h3 anim_21
+  - first:
+      213: 3677217525949863120
+    second: h3 anim_0
+  - first:
+      213: -2277606883392283244
+    second: h3 anim_1
+  - first:
+      213: -5719591963809445246
+    second: h3 anim_2
+  - first:
+      213: -5133407146845362148
+    second: h3 anim_3
+  - first:
+      213: -7625989630820565540
+    second: h3 anim_4
+  - first:
+      213: 580282776339365206
+    second: h3 anim_5
+  - first:
+      213: 8775377591792248671
+    second: h3 anim_6
+  - first:
+      213: -3957745368351652682
+    second: h3 anim_7
+  - first:
+      213: -926861419563582670
+    second: h3 anim_8
+  - first:
+      213: 1111056881045268366
+    second: h3 anim_9
+  - first:
+      213: -6138630275409294941
+    second: h3 anim_10
+  - first:
+      213: -9125111834683703530
+    second: h3 anim_11
+  - first:
+      213: -4852177207474215992
+    second: h3 anim_12
+  - first:
+      213: -7101636627230892702
+    second: h3 anim_13
+  - first:
+      213: 3377170670992042710
+    second: h3 anim_14
+  - first:
+      213: 7078332926835901458
+    second: h3 anim_15
+  - first:
+      213: -3826365479700146582
+    second: h3 anim_16
+  - first:
+      213: 1092641986382650515
+    second: h3 anim_17
+  - first:
+      213: -7876668529369609961
+    second: h3 anim_18
+  - first:
+      213: 6584867137310164514
+    second: h3 anim_19
+  - first:
+      213: -7031717593507741965
+    second: h3 anim_20
+  - first:
+      213: 1870034953079951291
+    second: h3 anim_21
+  - first:
+      213: -2798411957973658367
+    second: h3 anim_22
+  - first:
+      213: 3648110397677484844
+    second: h3 anim_23
+  - first:
+      213: -2894676752752703821
+    second: h3 anim_24
+  - first:
+      213: -1481381419578795574
+    second: h3 anim_25
+  - first:
+      213: -992622274602184213
+    second: h3 anim_26
+  - first:
+      213: -6201341745033493052
+    second: h3 anim_27
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: h3 anim_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4151c6bd9180330800000000000000
+      internalID: 3677217525949863120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: h3 anim_1
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 0
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d1b695b905460e0800000000000000
+      internalID: -2277606883392283244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: h3 anim_2
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 0
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a85f0a96def90b0800000000000000
+      internalID: -5719591963809445246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: h3 anim_3
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 0
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18a4dcd56972c8b0800000000000000
+      internalID: -5133407146845362148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: h3 anim_4
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 0
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cddb022c5da0b2690800000000000000
+      internalID: -7625989630820565540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: h3 anim_5
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 0
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d3cf05c149d0800800000000000000
+      internalID: 580282776339365206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: h3 anim_6
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 0
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5723b00d6768c970800000000000000
+      internalID: 8775377591792248671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: h3 anim_7
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 0
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b4c3f77e834319c0800000000000000
+      internalID: -3957745368351652682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: h3 anim_8
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 0
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23bf5ea13702323f0800000000000000
+      internalID: -926861419563582670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: h3 anim_9
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 0
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e87e4ffb8544b6f00800000000000000
+      internalID: 1111056881045268366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: h3 anim_10
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 0
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a945c2d9443fcaa0800000000000000
+      internalID: -6138630275409294941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: h3 anim_11
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 0
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ff6fd12271d5180800000000000000
+      internalID: -9125111834683703530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: h3 anim_12
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 0
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3a049a98a99acb0800000000000000
+      internalID: -4852177207474215992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: h3 anim_13
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 0
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ddff51d1be17d90800000000000000
+      internalID: -7101636627230892702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: h3 anim_14
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 0
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da295e05de1ede20800000000000000
+      internalID: 3377170670992042710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: h3 anim_15
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 0
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214410a5b4a4b3260800000000000000
+      internalID: 7078332926835901458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: h3 anim_16
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66d7a18ed406eac0800000000000000
+      internalID: -3826365479700146582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: h3 anim_17
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 0
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39cd309f818d92f00800000000000000
+      internalID: 1092641986382650515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: h3 anim_18
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 0
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7190d6574b370b290800000000000000
+      internalID: -7876668529369609961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: h3 anim_19
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 0
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2260484f5c5226b50800000000000000
+      internalID: 6584867137310164514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: h3 anim_20
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 0
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe3b16ba125a6e90800000000000000
+      internalID: -7031717593507741965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: h3 anim_21
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 0
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf05e7c1e2b3f910800000000000000
+      internalID: 1870034953079951291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: h3 anim_22
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 0
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10556cd962b0a29d0800000000000000
+      internalID: -2798411957973658367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: h3 anim_23
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 0
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2bb9f20411b0a230800000000000000
+      internalID: 3648110397677484844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: h3 anim_24
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 0
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6089c74da04d7d0800000000000000
+      internalID: -2894676752752703821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: h3 anim_25
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 0
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac954259273117be0800000000000000
+      internalID: -1481381419578795574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: h3 anim_26
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 0
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be15236ec4f7932f0800000000000000
+      internalID: -992622274602184213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: h3 anim_27
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 0
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c54a7cf98860f9a0800000000000000
+      internalID: -6201341745033493052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
