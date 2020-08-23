@@ -5,10 +5,12 @@ using UnityEngine;
 public class Goutte : MonoBehaviour
 {
     private Animator animator;
-    // Start is called before the first frame update
+    private AudioSource splash;
+
     void Start()
     {
         animator = gameObject.GetComponent<Animator>();
+        splash = gameObject.GetComponent<AudioSource>();
     }
 
     // Update is called once per frame
@@ -25,6 +27,7 @@ public class Goutte : MonoBehaviour
     IEnumerator AutoDestruct()
     {
         animator.SetBool("onHit", true);
+        splash.Play(0);
         yield  return new WaitForSeconds(0.3f);
         Destroy(gameObject);
 
