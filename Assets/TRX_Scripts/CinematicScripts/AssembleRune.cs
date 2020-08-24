@@ -138,7 +138,7 @@ public class AssembleRune : MonoBehaviour
 
         //Rivière Uruz Idle
         riviereUruz.SetBool("RiviereIdle", true);
-        yield return new WaitForSeconds(15.0f);
+        yield return new WaitForSeconds(8.0f);
 
 
         SceneManager.LoadScene(11);
