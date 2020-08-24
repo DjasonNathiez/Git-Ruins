@@ -11,6 +11,7 @@ public class AssembleRune : MonoBehaviour
     private Collider2D playerCollider;
     private Rigidbody2D playerRigidbody;
     private Animator playerAnimator;
+    [SerializeField] private Animator levelEnd;
 
 
     [SerializeField, Header("Camera Shake")]
@@ -140,8 +141,9 @@ public class AssembleRune : MonoBehaviour
         riviereUruz.SetBool("RiviereIdle", true);
         yield return new WaitForSeconds(8.0f);
 
-
-        SceneManager.LoadScene(11);
+        levelEnd.SetBool("isFading", true);
+        yield return new WaitForSeconds(0.80f);
+        SceneManager.LoadScene(10);
 
     }
 

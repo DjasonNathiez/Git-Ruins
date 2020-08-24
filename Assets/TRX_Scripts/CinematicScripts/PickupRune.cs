@@ -11,6 +11,7 @@ public class PickupRune : MonoBehaviour
     private Animator playerAnimator;
     private Rigidbody2D playerRigidbody;
     public GameObject runeParticle;
+    private GameObject player;
 
     
     // Start is called before the first frame update
@@ -21,7 +22,7 @@ public class PickupRune : MonoBehaviour
         playerRigidbody = GameObject.FindWithTag("Player").GetComponent<Rigidbody2D>();
         runeAnimator = GameObject.Find("Rune").GetComponent<Animator>();
         playerAnimator = GameObject.FindWithTag("Player").GetComponent<Animator>();
-
+        player = GameObject.FindWithTag("Player");
 
     }
 
@@ -39,6 +40,9 @@ public class PickupRune : MonoBehaviour
         runeParticle.SetActive(true);
         //Freeze le player
         playerRigidbody.constraints = RigidbodyConstraints2D.FreezePosition;
+        yield return new WaitForSeconds(0.5f);
+        player.GetComponent<CustomCharacterController>().enabled = false;
+
         yield return new WaitForSeconds(3.5f);
 
         //Enlève le ParticleSystem + Animation de Disparition

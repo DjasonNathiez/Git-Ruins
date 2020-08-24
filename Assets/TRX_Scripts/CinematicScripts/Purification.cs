@@ -9,6 +9,8 @@ public class Purification : MonoBehaviour
     private Animator corruAnimator;
     private Animator playerAnimator;
     private Rigidbody2D playerRigidbody;
+    private GameObject player;
+
     [Header("Cameras")]
     [SerializeField] GameObject camLarge = null;
     [SerializeField] GameObject camMiddle = null;
@@ -22,6 +24,7 @@ public class Purification : MonoBehaviour
         playerRigidbody = GameObject.FindWithTag("Player").GetComponent<Rigidbody2D>();
         corruAnimator = GameObject.Find("Corruption Finale").GetComponent<Animator>();
         playerAnimator = GameObject.FindWithTag("Player").GetComponent<Animator>();
+        player = GameObject.FindWithTag("Player");
 
     }
 
@@ -35,6 +38,9 @@ public class Purification : MonoBehaviour
     {
         //Freeze le player
         playerRigidbody.constraints = RigidbodyConstraints2D.FreezePosition | RigidbodyConstraints2D.FreezeRotation;
+        yield return new WaitForSeconds(0.5f);
+
+        player.GetComponent<CustomCharacterController>().enabled = false;
 
         camMiddle.SetActive(true);
         camLarge.SetActive(false);
@@ -51,6 +57,8 @@ public class Purification : MonoBehaviour
 
         //Unfreeze le player
         playerRigidbody.constraints = RigidbodyConstraints2D.FreezeRotation;
+        player.GetComponent<CustomCharacterController>().enabled = true;
+
 
         //Detruire le Trigger & La Corruption
         GameObject.Find("Corruption Finale").SetActive(false);
