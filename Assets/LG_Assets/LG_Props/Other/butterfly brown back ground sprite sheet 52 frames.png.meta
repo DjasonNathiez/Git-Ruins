@@ -1,0 +1,1351 @@
+fileFormatVersion: 2
+guid: 38d9a6534b8c92b4e9950ca63f946982
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 306043507953292335
+    second: butterfly brown back ground sprite sheet 52 frames_0
+  - first:
+      213: -6262703116513434164
+    second: butterfly brown back ground sprite sheet 52 frames_1
+  - first:
+      213: -3961599025283106381
+    second: butterfly brown back ground sprite sheet 52 frames_2
+  - first:
+      213: -7611596265101110423
+    second: butterfly brown back ground sprite sheet 52 frames_3
+  - first:
+      213: 864093624923633674
+    second: butterfly brown back ground sprite sheet 52 frames_4
+  - first:
+      213: 8657885790435487736
+    second: butterfly brown back ground sprite sheet 52 frames_5
+  - first:
+      213: 2772140436786130558
+    second: butterfly brown back ground sprite sheet 52 frames_6
+  - first:
+      213: -5013229544676827453
+    second: butterfly brown back ground sprite sheet 52 frames_7
+  - first:
+      213: 7994437802486902998
+    second: butterfly brown back ground sprite sheet 52 frames_8
+  - first:
+      213: 3424403931282429721
+    second: butterfly brown back ground sprite sheet 52 frames_9
+  - first:
+      213: -6973598871566589567
+    second: butterfly brown back ground sprite sheet 52 frames_10
+  - first:
+      213: -8856796251201928408
+    second: butterfly brown back ground sprite sheet 52 frames_11
+  - first:
+      213: -1966378709527608526
+    second: butterfly brown back ground sprite sheet 52 frames_12
+  - first:
+      213: 3635258178490947269
+    second: butterfly brown back ground sprite sheet 52 frames_13
+  - first:
+      213: 3211159475990892337
+    second: butterfly brown back ground sprite sheet 52 frames_14
+  - first:
+      213: 3341532005060688077
+    second: butterfly brown back ground sprite sheet 52 frames_15
+  - first:
+      213: -5929321525161270524
+    second: butterfly brown back ground sprite sheet 52 frames_16
+  - first:
+      213: -4738955574427149982
+    second: butterfly brown back ground sprite sheet 52 frames_17
+  - first:
+      213: 2550214705051006332
+    second: butterfly brown back ground sprite sheet 52 frames_18
+  - first:
+      213: 4553735484453514077
+    second: butterfly brown back ground sprite sheet 52 frames_19
+  - first:
+      213: -2678840764038206840
+    second: butterfly brown back ground sprite sheet 52 frames_20
+  - first:
+      213: -5469180972312779114
+    second: butterfly brown back ground sprite sheet 52 frames_21
+  - first:
+      213: -7968154094865897015
+    second: butterfly brown back ground sprite sheet 52 frames_22
+  - first:
+      213: -2290385355732202420
+    second: butterfly brown back ground sprite sheet 52 frames_23
+  - first:
+      213: -1376951622099650076
+    second: butterfly brown back ground sprite sheet 52 frames_24
+  - first:
+      213: 8580873241728813704
+    second: butterfly brown back ground sprite sheet 52 frames_25
+  - first:
+      213: -5221468182234600314
+    second: butterfly brown back ground sprite sheet 52 frames_26
+  - first:
+      213: 3207756276631230927
+    second: butterfly brown back ground sprite sheet 52 frames_27
+  - first:
+      213: -4324858629925387998
+    second: butterfly brown back ground sprite sheet 52 frames_28
+  - first:
+      213: 89502335820723089
+    second: butterfly brown back ground sprite sheet 52 frames_29
+  - first:
+      213: 4965529173280322763
+    second: butterfly brown back ground sprite sheet 52 frames_30
+  - first:
+      213: -5657965980849956686
+    second: butterfly brown back ground sprite sheet 52 frames_31
+  - first:
+      213: 1734732085008865324
+    second: butterfly brown back ground sprite sheet 52 frames_32
+  - first:
+      213: 4831874838720373451
+    second: butterfly brown back ground sprite sheet 52 frames_33
+  - first:
+      213: -6293657318084203641
+    second: butterfly brown back ground sprite sheet 52 frames_34
+  - first:
+      213: 5987755259285737252
+    second: butterfly brown back ground sprite sheet 52 frames_35
+  - first:
+      213: -1940054254444881744
+    second: butterfly brown back ground sprite sheet 52 frames_36
+  - first:
+      213: -3857330400630909619
+    second: butterfly brown back ground sprite sheet 52 frames_37
+  - first:
+      213: 7306449742945147860
+    second: butterfly brown back ground sprite sheet 52 frames_38
+  - first:
+      213: 8262359605488155360
+    second: butterfly brown back ground sprite sheet 52 frames_39
+  - first:
+      213: 9220772877461543655
+    second: butterfly brown back ground sprite sheet 52 frames_40
+  - first:
+      213: -4533948113218093383
+    second: butterfly brown back ground sprite sheet 52 frames_41
+  - first:
+      213: -4806446645242063866
+    second: butterfly brown back ground sprite sheet 52 frames_42
+  - first:
+      213: -2031737148267194320
+    second: butterfly brown back ground sprite sheet 52 frames_43
+  - first:
+      213: -8426905391466282660
+    second: butterfly brown back ground sprite sheet 52 frames_44
+  - first:
+      213: -6714075568309604258
+    second: butterfly brown back ground sprite sheet 52 frames_45
+  - first:
+      213: -6945461263369709517
+    second: butterfly brown back ground sprite sheet 52 frames_46
+  - first:
+      213: -5490013350421880496
+    second: butterfly brown back ground sprite sheet 52 frames_47
+  - first:
+      213: -4518821925525616500
+    second: butterfly brown back ground sprite sheet 52 frames_48
+  - first:
+      213: -2814902453146574889
+    second: butterfly brown back ground sprite sheet 52 frames_49
+  - first:
+      213: 3102961009489022820
+    second: butterfly brown back ground sprite sheet 52 frames_50
+  - first:
+      213: 2607390394501600318
+    second: butterfly brown back ground sprite sheet 52 frames_51
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: butterfly brown back ground sprite sheet 52 frames_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24de51f2f84f3400800000000000000
+      internalID: 306043507953292335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly brown back ground sprite sheet 52 frames_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc52c7e52b86619a0800000000000000
+      internalID: -6262703116513434164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly brown back ground sprite sheet 52 frames_2
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b9777b0da29509c0800000000000000
+      internalID: -3961599025283106381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly brown back ground sprite sheet 52 frames_3
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96355fc568d2e5690800000000000000
+      internalID: -7611596265101110423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly brown back ground sprite sheet 52 frames_4
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08b04ed290edfb00800000000000000
+      internalID: 864093624923633674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly brown back ground sprite sheet 52 frames_5
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff2fc4414df62870800000000000000
+      internalID: 8657885790435487736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly brown back ground sprite sheet 52 frames_6
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e22223a0f987620800000000000000
+      internalID: 2772140436786130558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly brown back ground sprite sheet 52 frames_7
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce5b045a4e6d6ab0800000000000000
+      internalID: -5013229544676827453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly brown back ground sprite sheet 52 frames_8
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0bf2433d2f1fe60800000000000000
+      internalID: 7994437802486902998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly brown back ground sprite sheet 52 frames_9
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9175a837b3de58f20800000000000000
+      internalID: 3424403931282429721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly brown back ground sprite sheet 52 frames_10
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 181653626ccc83f90800000000000000
+      internalID: -6973598871566589567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly brown back ground sprite sheet 52 frames_11
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823091f1cb6561580800000000000000
+      internalID: -8856796251201928408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly brown back ground sprite sheet 52 frames_12
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23347b46bf406b4e0800000000000000
+      internalID: -1966378709527608526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly brown back ground sprite sheet 52 frames_13
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c659cb8d08037230800000000000000
+      internalID: 3635258178490947269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly brown back ground sprite sheet 52 frames_14
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f019ba784509c20800000000000000
+      internalID: 3211159475990892337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly brown back ground sprite sheet 52 frames_15
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8bd3787a18f5e20800000000000000
+      internalID: 3341532005060688077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly brown back ground sprite sheet 52 frames_16
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4036faddc71d6bda0800000000000000
+      internalID: -5929321525161270524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly brown back ground sprite sheet 52 frames_17
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26999eb5309db3eb0800000000000000
+      internalID: -4738955574427149982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly brown back ground sprite sheet 52 frames_18
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75fa8b33ce246320800000000000000
+      internalID: 2550214705051006332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly brown back ground sprite sheet 52 frames_19
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b61ffdb4e123f30800000000000000
+      internalID: 4553735484453514077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly brown back ground sprite sheet 52 frames_20
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88aaaa9a488d2dad0800000000000000
+      internalID: -2678840764038206840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly brown back ground sprite sheet 52 frames_21
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696a8f4f1e09914b0800000000000000
+      internalID: -5469180972312779114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly brown back ground sprite sheet 52 frames_22
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c9a1fb511e6b6190800000000000000
+      internalID: -7968154094865897015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly brown back ground sprite sheet 52 frames_23
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c43d867aae630e0800000000000000
+      internalID: -2290385355732202420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly brown back ground sprite sheet 52 frames_24
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e93adb8bc514ece0800000000000000
+      internalID: -1376951622099650076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly brown back ground sprite sheet 52 frames_25
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a86ebffb2651770800000000000000
+      internalID: 8580873241728813704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly brown back ground sprite sheet 52 frames_26
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ce6ef4a5e9987b0800000000000000
+      internalID: -5221468182234600314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly brown back ground sprite sheet 52 frames_27
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc952a2965d348c20800000000000000
+      internalID: 3207756276631230927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly brown back ground sprite sheet 52 frames_28
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221c38b7df30bf3c0800000000000000
+      internalID: -4324858629925387998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly brown back ground sprite sheet 52 frames_29
+      rect:
+        serializedVersion: 2
+        x: 2059
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193792576e9fd3100800000000000000
+      internalID: 89502335820723089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly brown back ground sprite sheet 52 frames_30
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4763f797a19e440800000000000000
+      internalID: 4965529173280322763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly brown back ground sprite sheet 52 frames_31
+      rect:
+        serializedVersion: 2
+        x: 2201
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b89138eaedda71b0800000000000000
+      internalID: -5657965980849956686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly brown back ground sprite sheet 52 frames_32
+      rect:
+        serializedVersion: 2
+        x: 2272
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c281d6be3a1031810800000000000000
+      internalID: 1734732085008865324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly brown back ground sprite sheet 52 frames_33
+      rect:
+        serializedVersion: 2
+        x: 2343
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc26311c0944e0340800000000000000
+      internalID: 4831874838720373451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly brown back ground sprite sheet 52 frames_34
+      rect:
+        serializedVersion: 2
+        x: 2414
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78bad81b30078a8a0800000000000000
+      internalID: -6293657318084203641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly brown back ground sprite sheet 52 frames_35
+      rect:
+        serializedVersion: 2
+        x: 2485
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f04bf0fa7c81350800000000000000
+      internalID: 5987755259285737252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly brown back ground sprite sheet 52 frames_36
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b8d3d63fea8315e0800000000000000
+      internalID: -1940054254444881744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly brown back ground sprite sheet 52 frames_37
+      rect:
+        serializedVersion: 2
+        x: 2627
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4554190072087ac0800000000000000
+      internalID: -3857330400630909619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly brown back ground sprite sheet 52 frames_38
+      rect:
+        serializedVersion: 2
+        x: 2698
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db5d797459b56560800000000000000
+      internalID: 7306449742945147860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly brown back ground sprite sheet 52 frames_39
+      rect:
+        serializedVersion: 2
+        x: 2769
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea78ab094cc9a270800000000000000
+      internalID: 8262359605488155360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly brown back ground sprite sheet 52 frames_40
+      rect:
+        serializedVersion: 2
+        x: 2840
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ead6ab0414c6ff70800000000000000
+      internalID: 9220772877461543655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly brown back ground sprite sheet 52 frames_41
+      rect:
+        serializedVersion: 2
+        x: 2911
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be3591863e2411c0800000000000000
+      internalID: -4533948113218093383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly brown back ground sprite sheet 52 frames_42
+      rect:
+        serializedVersion: 2
+        x: 2982
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6049a76ed321c4db0800000000000000
+      internalID: -4806446645242063866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly brown back ground sprite sheet 52 frames_43
+      rect:
+        serializedVersion: 2
+        x: 3053
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 038919804d1ddc3e0800000000000000
+      internalID: -2031737148267194320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly brown back ground sprite sheet 52 frames_44
+      rect:
+        serializedVersion: 2
+        x: 3124
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5104d1b13e9d0b80800000000000000
+      internalID: -8426905391466282660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly brown back ground sprite sheet 52 frames_45
+      rect:
+        serializedVersion: 2
+        x: 3195
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e50f6c3e7dfc2d2a0800000000000000
+      internalID: -6714075568309604258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly brown back ground sprite sheet 52 frames_46
+      rect:
+        serializedVersion: 2
+        x: 3266
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338dc9397c3cc9f90800000000000000
+      internalID: -6945461263369709517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly brown back ground sprite sheet 52 frames_47
+      rect:
+        serializedVersion: 2
+        x: 3337
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 051a3f3f1fd8fc3b0800000000000000
+      internalID: -5490013350421880496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly brown back ground sprite sheet 52 frames_48
+      rect:
+        serializedVersion: 2
+        x: 3408
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c888cc5866be941c0800000000000000
+      internalID: -4518821925525616500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly brown back ground sprite sheet 52 frames_49
+      rect:
+        serializedVersion: 2
+        x: 3479
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df92d202257fe8d0800000000000000
+      internalID: -2814902453146574889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly brown back ground sprite sheet 52 frames_50
+      rect:
+        serializedVersion: 2
+        x: 3550
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f0b72199eef0b20800000000000000
+      internalID: 3102961009489022820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly brown back ground sprite sheet 52 frames_51
+      rect:
+        serializedVersion: 2
+        x: 3621
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e34980fcfbf4f2420800000000000000
+      internalID: 2607390394501600318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

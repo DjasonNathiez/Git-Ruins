@@ -1,0 +1,1351 @@
+fileFormatVersion: 2
+guid: e35f28106c5c36f4a9c296be3041196b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6294351055785425896
+    second: butterfly yellow back ground sprite sheet 52 frames_0
+  - first:
+      213: 4213004613001552370
+    second: butterfly yellow back ground sprite sheet 52 frames_1
+  - first:
+      213: -3366946361412866859
+    second: butterfly yellow back ground sprite sheet 52 frames_2
+  - first:
+      213: 5986789493191097343
+    second: butterfly yellow back ground sprite sheet 52 frames_3
+  - first:
+      213: 5806269117164111342
+    second: butterfly yellow back ground sprite sheet 52 frames_4
+  - first:
+      213: 5318970969278470076
+    second: butterfly yellow back ground sprite sheet 52 frames_5
+  - first:
+      213: 7439299390972843990
+    second: butterfly yellow back ground sprite sheet 52 frames_6
+  - first:
+      213: 9159101208013780018
+    second: butterfly yellow back ground sprite sheet 52 frames_7
+  - first:
+      213: -8171236428231498726
+    second: butterfly yellow back ground sprite sheet 52 frames_8
+  - first:
+      213: -8954720561884316507
+    second: butterfly yellow back ground sprite sheet 52 frames_9
+  - first:
+      213: 7235750424470497883
+    second: butterfly yellow back ground sprite sheet 52 frames_10
+  - first:
+      213: -748639006380858813
+    second: butterfly yellow back ground sprite sheet 52 frames_11
+  - first:
+      213: -6612474445983137158
+    second: butterfly yellow back ground sprite sheet 52 frames_12
+  - first:
+      213: 6437000195348915064
+    second: butterfly yellow back ground sprite sheet 52 frames_13
+  - first:
+      213: 2879674695744879375
+    second: butterfly yellow back ground sprite sheet 52 frames_14
+  - first:
+      213: -7302510466432995967
+    second: butterfly yellow back ground sprite sheet 52 frames_15
+  - first:
+      213: 6180379273427234759
+    second: butterfly yellow back ground sprite sheet 52 frames_16
+  - first:
+      213: 6208250346676155626
+    second: butterfly yellow back ground sprite sheet 52 frames_17
+  - first:
+      213: -647769563251898454
+    second: butterfly yellow back ground sprite sheet 52 frames_18
+  - first:
+      213: -8547819118905807531
+    second: butterfly yellow back ground sprite sheet 52 frames_19
+  - first:
+      213: 8562485920244690301
+    second: butterfly yellow back ground sprite sheet 52 frames_20
+  - first:
+      213: -3824555978650907934
+    second: butterfly yellow back ground sprite sheet 52 frames_21
+  - first:
+      213: 8101080866626702306
+    second: butterfly yellow back ground sprite sheet 52 frames_22
+  - first:
+      213: -1546476380900608006
+    second: butterfly yellow back ground sprite sheet 52 frames_23
+  - first:
+      213: -8380666737295205167
+    second: butterfly yellow back ground sprite sheet 52 frames_24
+  - first:
+      213: 5511435630356336418
+    second: butterfly yellow back ground sprite sheet 52 frames_25
+  - first:
+      213: -3042862282188149885
+    second: butterfly yellow back ground sprite sheet 52 frames_26
+  - first:
+      213: -765073128351377938
+    second: butterfly yellow back ground sprite sheet 52 frames_27
+  - first:
+      213: -2892024806174268083
+    second: butterfly yellow back ground sprite sheet 52 frames_28
+  - first:
+      213: -5257042427691906035
+    second: butterfly yellow back ground sprite sheet 52 frames_29
+  - first:
+      213: -5956380102113631203
+    second: butterfly yellow back ground sprite sheet 52 frames_30
+  - first:
+      213: -414751217148166199
+    second: butterfly yellow back ground sprite sheet 52 frames_31
+  - first:
+      213: 354538762046620289
+    second: butterfly yellow back ground sprite sheet 52 frames_32
+  - first:
+      213: -3717852734849876769
+    second: butterfly yellow back ground sprite sheet 52 frames_33
+  - first:
+      213: 85262582728079556
+    second: butterfly yellow back ground sprite sheet 52 frames_34
+  - first:
+      213: -4599030242247920195
+    second: butterfly yellow back ground sprite sheet 52 frames_35
+  - first:
+      213: -4911148243739373486
+    second: butterfly yellow back ground sprite sheet 52 frames_36
+  - first:
+      213: 3133137228518059203
+    second: butterfly yellow back ground sprite sheet 52 frames_37
+  - first:
+      213: 5437679015917363351
+    second: butterfly yellow back ground sprite sheet 52 frames_38
+  - first:
+      213: -3987277283427276098
+    second: butterfly yellow back ground sprite sheet 52 frames_39
+  - first:
+      213: 2363720880561636371
+    second: butterfly yellow back ground sprite sheet 52 frames_40
+  - first:
+      213: -9157730014715004490
+    second: butterfly yellow back ground sprite sheet 52 frames_41
+  - first:
+      213: 7536688543471342416
+    second: butterfly yellow back ground sprite sheet 52 frames_42
+  - first:
+      213: 4728419501584963260
+    second: butterfly yellow back ground sprite sheet 52 frames_43
+  - first:
+      213: -3013987391734415735
+    second: butterfly yellow back ground sprite sheet 52 frames_44
+  - first:
+      213: 8601546899311654572
+    second: butterfly yellow back ground sprite sheet 52 frames_45
+  - first:
+      213: -863907926611569906
+    second: butterfly yellow back ground sprite sheet 52 frames_46
+  - first:
+      213: 1807433657309984567
+    second: butterfly yellow back ground sprite sheet 52 frames_47
+  - first:
+      213: 7354966241265974658
+    second: butterfly yellow back ground sprite sheet 52 frames_48
+  - first:
+      213: -3942635975065303293
+    second: butterfly yellow back ground sprite sheet 52 frames_49
+  - first:
+      213: 5975460229257709164
+    second: butterfly yellow back ground sprite sheet 52 frames_50
+  - first:
+      213: -2530578654515847953
+    second: butterfly yellow back ground sprite sheet 52 frames_51
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: butterfly yellow back ground sprite sheet 52 frames_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ebf1b3bfe60a5750800000000000000
+      internalID: 6294351055785425896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly yellow back ground sprite sheet 52 frames_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f12a03cf59977a30800000000000000
+      internalID: 4213004613001552370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly yellow back ground sprite sheet 52 frames_2
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc21368f143641d0800000000000000
+      internalID: -3366946361412866859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly yellow back ground sprite sheet 52 frames_3
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb32be1359551350800000000000000
+      internalID: 5986789493191097343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly yellow back ground sprite sheet 52 frames_4
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee543e6cff2049050800000000000000
+      internalID: 5806269117164111342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly yellow back ground sprite sheet 52 frames_5
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7557a5ae7c0d940800000000000000
+      internalID: 5318970969278470076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly yellow back ground sprite sheet 52 frames_6
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d757b88163bd3760800000000000000
+      internalID: 7439299390972843990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly yellow back ground sprite sheet 52 frames_7
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234338d850aab1f70800000000000000
+      internalID: 9159101208013780018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly yellow back ground sprite sheet 52 frames_8
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a14a787f2cfe99e80800000000000000
+      internalID: -8171236428231498726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly yellow back ground sprite sheet 52 frames_9
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5acbff5d7117ab380800000000000000
+      internalID: -8954720561884316507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly yellow back ground sprite sheet 52 frames_10
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a22f5acac8a6460800000000000000
+      internalID: 7235750424470497883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly yellow back ground sprite sheet 52 frames_11
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342eaa74acc4c95f0800000000000000
+      internalID: -748639006380858813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly yellow back ground sprite sheet 52 frames_12
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72c3d89685cb34a0800000000000000
+      internalID: -6612474445983137158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly yellow back ground sprite sheet 52 frames_13
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87364eea291d45950800000000000000
+      internalID: 6437000195348915064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly yellow back ground sprite sheet 52 frames_14
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0bfd8ce0e8a6f720800000000000000
+      internalID: 2879674695744879375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly yellow back ground sprite sheet 52 frames_15
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d60bfcb6548aa90800000000000000
+      internalID: -7302510466432995967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly yellow back ground sprite sheet 52 frames_16
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf21d1443e15c550800000000000000
+      internalID: 6180379273427234759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly yellow back ground sprite sheet 52 frames_17
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4f35e2cc2282650800000000000000
+      internalID: 6208250346676155626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly yellow back ground sprite sheet 52 frames_18
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa78f06a309a207f0800000000000000
+      internalID: -647769563251898454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly yellow back ground sprite sheet 52 frames_19
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55da355bccb006980800000000000000
+      internalID: -8547819118905807531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly yellow back ground sprite sheet 52 frames_20
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7de776149f04d670800000000000000
+      internalID: 8562485920244690301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly yellow back ground sprite sheet 52 frames_21
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea8aecc9927ceac0800000000000000
+      internalID: -3824555978650907934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly yellow back ground sprite sheet 52 frames_22
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb8ff77022dc6070800000000000000
+      internalID: 8101080866626702306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly yellow back ground sprite sheet 52 frames_23
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af733e6dcefc98ae0800000000000000
+      internalID: -1546476380900608006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly yellow back ground sprite sheet 52 frames_24
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc569e4104e1bb80800000000000000
+      internalID: -8380666737295205167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly yellow back ground sprite sheet 52 frames_25
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f02d5418d8c7c40800000000000000
+      internalID: 5511435630356336418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly yellow back ground sprite sheet 52 frames_26
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38badb940e495c5d0800000000000000
+      internalID: -3042862282188149885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly yellow back ground sprite sheet 52 frames_27
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee55b651b0ae165f0800000000000000
+      internalID: -765073128351377938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly yellow back ground sprite sheet 52 frames_28
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d456d5ae2c67dd7d0800000000000000
+      internalID: -2892024806174268083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly yellow back ground sprite sheet 52 frames_29
+      rect:
+        serializedVersion: 2
+        x: 2059
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c4448d3cb3b07b0800000000000000
+      internalID: -5257042427691906035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly yellow back ground sprite sheet 52 frames_30
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14ef4afadfa65da0800000000000000
+      internalID: -5956380102113631203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly yellow back ground sprite sheet 52 frames_31
+      rect:
+        serializedVersion: 2
+        x: 2201
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cff8b727f18e3af0800000000000000
+      internalID: -414751217148166199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly yellow back ground sprite sheet 52 frames_32
+      rect:
+        serializedVersion: 2
+        x: 2272
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18245ea20239be400800000000000000
+      internalID: 354538762046620289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly yellow back ground sprite sheet 52 frames_33
+      rect:
+        serializedVersion: 2
+        x: 2343
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdcfe0cb2a8876cc0800000000000000
+      internalID: -3717852734849876769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly yellow back ground sprite sheet 52 frames_34
+      rect:
+        serializedVersion: 2
+        x: 2414
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8b3240ed9ee2100800000000000000
+      internalID: 85262582728079556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly yellow back ground sprite sheet 52 frames_35
+      rect:
+        serializedVersion: 2
+        x: 2485
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5b8838c56fc20c0800000000000000
+      internalID: -4599030242247920195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly yellow back ground sprite sheet 52 frames_36
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25091a451b818dbb0800000000000000
+      internalID: -4911148243739373486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly yellow back ground sprite sheet 52 frames_37
+      rect:
+        serializedVersion: 2
+        x: 2627
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ccee5295b32b7b20800000000000000
+      internalID: 3133137228518059203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly yellow back ground sprite sheet 52 frames_38
+      rect:
+        serializedVersion: 2
+        x: 2698
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790a9524144867b40800000000000000
+      internalID: 5437679015917363351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly yellow back ground sprite sheet 52 frames_39
+      rect:
+        serializedVersion: 2
+        x: 2769
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba255caf685aa8c0800000000000000
+      internalID: -3987277283427276098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly yellow back ground sprite sheet 52 frames_40
+      rect:
+        serializedVersion: 2
+        x: 2840
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 314cc0a0e9f9dc020800000000000000
+      internalID: 2363720880561636371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly yellow back ground sprite sheet 52 frames_41
+      rect:
+        serializedVersion: 2
+        x: 2911
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9baf3421539e080800000000000000
+      internalID: -9157730014715004490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly yellow back ground sprite sheet 52 frames_42
+      rect:
+        serializedVersion: 2
+        x: 2982
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0539d589c42b79860800000000000000
+      internalID: 7536688543471342416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly yellow back ground sprite sheet 52 frames_43
+      rect:
+        serializedVersion: 2
+        x: 3053
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb650050c78be9140800000000000000
+      internalID: 4728419501584963260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly yellow back ground sprite sheet 52 frames_44
+      rect:
+        serializedVersion: 2
+        x: 3124
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ef92e9f6a2c26d0800000000000000
+      internalID: -3013987391734415735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly yellow back ground sprite sheet 52 frames_45
+      rect:
+        serializedVersion: 2
+        x: 3195
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6755cf455de5770800000000000000
+      internalID: 8601546899311654572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly yellow back ground sprite sheet 52 frames_46
+      rect:
+        serializedVersion: 2
+        x: 3266
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e035ca36158c204f0800000000000000
+      internalID: -863907926611569906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly yellow back ground sprite sheet 52 frames_47
+      rect:
+        serializedVersion: 2
+        x: 3337
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737fb0bc55b451910800000000000000
+      internalID: 1807433657309984567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly yellow back ground sprite sheet 52 frames_48
+      rect:
+        serializedVersion: 2
+        x: 3408
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28df5a104d6121660800000000000000
+      internalID: 7354966241265974658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly yellow back ground sprite sheet 52 frames_49
+      rect:
+        serializedVersion: 2
+        x: 3479
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3078e8b3871f849c0800000000000000
+      internalID: -3942635975065303293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly yellow back ground sprite sheet 52 frames_50
+      rect:
+        serializedVersion: 2
+        x: 3550
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66416e4b691de250800000000000000
+      internalID: 5975460229257709164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly yellow back ground sprite sheet 52 frames_51
+      rect:
+        serializedVersion: 2
+        x: 3621
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec956d0f1491ecd0800000000000000
+      internalID: -2530578654515847953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
