@@ -39,7 +39,7 @@ public class CustomCharacterController : MonoBehaviour
     [SerializeField] float jumpHForce = 4.0f;
     [SerializeField] float impulseHForce = 6.0f;
     [SerializeField] float impulseForce = 12.0f;
-    [SerializeField, Range(0f,0.50f)] float jumpBuffering = 0.04f;
+    [SerializeField, Range(0f, 0.50f)] float jumpBuffering = 0.04f;
     public float speedInfo;
 
     SpriteRenderer playerSprite;
@@ -80,6 +80,8 @@ public class CustomCharacterController : MonoBehaviour
     public AudioSource walkingSrc;
     public AudioClip walking;
 
+    private float compteur;
+
     //SoundManager[] soundM;
 
     /*private void Awake()
@@ -98,13 +100,13 @@ public class CustomCharacterController : MonoBehaviour
         groundLayer = LayerMask.GetMask("Ground");
         wallJumpLayer = LayerMask.GetMask("WallJump");
 
-       rGroundCast = new RaycastHit2D[10];
-       rWallCast = new RaycastHit2D[10];
+        rGroundCast = new RaycastHit2D[10];
+        rWallCast = new RaycastHit2D[10];
 
         audioManager = AudioManager.instance;
-     
+
     }
-    
+
     public void Update()
     {
         InputCheck();
@@ -133,7 +135,7 @@ public class CustomCharacterController : MonoBehaviour
         }*/
 
     }
-    
+
     void FixedUpdate()
     {
         GroundingUpdate();
@@ -141,7 +143,7 @@ public class CustomCharacterController : MonoBehaviour
         JumpDirection();
         JumpUpdate();
         WallJump();
-
+        HairCheck();
 
     }
 
@@ -207,7 +209,7 @@ public class CustomCharacterController : MonoBehaviour
         }
     }*/
 
-        // Méthodes
+    // Méthodes
     void ClampVelocity()
     {
         velocity = playerRigidbody.velocity;
@@ -230,7 +232,7 @@ public class CustomCharacterController : MonoBehaviour
             StartCoroutine("JumpBuffering");
 
             if (canJump) animator.SetBool("isJumping", true);
-            
+
             if (canJump == true)
             {
                 audioManager.PlaySound("jump");
@@ -290,27 +292,27 @@ public class CustomCharacterController : MonoBehaviour
         else if (enableMouv)
         {
             //Applique les changements voulus à la vélocité
-            velocity += movementInput * Time.fixedDeltaTime * acceleration; 
+            velocity += movementInput * Time.fixedDeltaTime * acceleration;
 
             movementInput = Vector2.zero;//L'input de mouvement a été consommé, on le réinitialise
 
             velocity.x = Mathf.Clamp(velocity.x, -maxSpeed, maxSpeed);
 
             //Tourne le sprite dans la direction vers laquelle on se dirige
-            if (Input.GetAxis("Horizontal") < 0f) 
+            if (Input.GetAxis("Horizontal") < 0f)
             {
                 gameObject.GetComponent<SpriteRenderer>().flipX = true;
-               
+
             }
             else if (Input.GetAxis("Horizontal") > 0f)
             {
                 gameObject.GetComponent<SpriteRenderer>().flipX = false;
-                
+
             }
-            
+
             //Smoothing collision with walls
             int numHits = playerCollider.Cast(-Vector2.left, rWallCast, 0.3f);
-            if (numHits > 0) velocity += new Vector2 (-1.2f,0);
+            if (numHits > 0) velocity += new Vector2(-1.2f, 0);
 
             int leftNumHits = playerCollider.Cast(Vector2.left, rWallCast, 0.3f);
             if (leftNumHits > 0) velocity += new Vector2(1.2f, 0); ;
@@ -319,7 +321,7 @@ public class CustomCharacterController : MonoBehaviour
 
             //Rend la vélocité au rigidbody du player
             playerRigidbody.velocity = velocity;
-                               
+
         }
     }
 
@@ -534,4 +536,22 @@ public class CustomCharacterController : MonoBehaviour
     {
         audioManager.PlaySound("walk");
     }
+
+    private void HairCheck()
+    {
+        compteur += Time.deltaTime;
+
+        if (Input.anyKeyDown)
+        {
+            animator.SetBool("Cheveux", false);
+            compteur = 0;
+        }
+        if (compteur >= 10f)
+        {
+            compteur = 0;
+            Debug.Log("Apparition des cheveux");
+            animator.SetBool("Cheveux", true);
+        }
+    }
+
 }

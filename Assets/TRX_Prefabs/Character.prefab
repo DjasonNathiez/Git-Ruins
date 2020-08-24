@@ -266,11 +266,7 @@ MonoBehaviour:
   speedInfo: 0
   shakeMagnitude: 0.1
   shakeTime: 0.1
-  mainCamera: {fileID: 0}
   isGrounded: 0
-  CameraLow: 1
-  CameraLarge: 0
-  CameraMain: 0
   walkingSrc: {fileID: 0}
   walking: {fileID: 0}
 --- !u!114 &4151287836019415058
