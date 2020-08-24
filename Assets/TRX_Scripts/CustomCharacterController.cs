@@ -546,7 +546,7 @@ public class CustomCharacterController : MonoBehaviour
             animator.SetBool("Cheveux", false);
             compteur = 0;
         }
-        if (compteur >= 10f)
+        if (compteur >= 12f)
         {
             compteur = 0;
             Debug.Log("Apparition des cheveux");
