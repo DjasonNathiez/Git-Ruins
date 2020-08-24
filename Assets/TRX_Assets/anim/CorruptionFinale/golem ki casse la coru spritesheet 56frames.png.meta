@@ -1,0 +1,1795 @@
+fileFormatVersion: 2
+guid: d70b43cdaa2267a4f91d7e4d09842ac2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8722198624055469927
+    second: golem ki casse la coru spritesheet 56frames_0
+  - first:
+      213: 7623843272080633659
+    second: golem ki casse la coru spritesheet 56frames_1
+  - first:
+      213: 7516322847289352318
+    second: golem ki casse la coru spritesheet 56frames_2
+  - first:
+      213: -7833928392503348788
+    second: golem ki casse la coru spritesheet 56frames_3
+  - first:
+      213: 5949932894964282385
+    second: golem ki casse la coru spritesheet 56frames_4
+  - first:
+      213: -4336282511646430377
+    second: golem ki casse la coru spritesheet 56frames_5
+  - first:
+      213: -7635431173036642816
+    second: golem ki casse la coru spritesheet 56frames_6
+  - first:
+      213: 3504417455426052925
+    second: golem ki casse la coru spritesheet 56frames_7
+  - first:
+      213: 8807088346439523759
+    second: golem ki casse la coru spritesheet 56frames_8
+  - first:
+      213: -4217788946231764886
+    second: golem ki casse la coru spritesheet 56frames_9
+  - first:
+      213: -1696478172216846411
+    second: golem ki casse la coru spritesheet 56frames_10
+  - first:
+      213: -5013174046488776487
+    second: golem ki casse la coru spritesheet 56frames_11
+  - first:
+      213: 2825398119636626080
+    second: golem ki casse la coru spritesheet 56frames_12
+  - first:
+      213: -1555192547144518132
+    second: golem ki casse la coru spritesheet 56frames_13
+  - first:
+      213: 3931079488989388308
+    second: golem ki casse la coru spritesheet 56frames_14
+  - first:
+      213: 6764473311917544664
+    second: golem ki casse la coru spritesheet 56frames_15
+  - first:
+      213: -2427898377147046028
+    second: golem ki casse la coru spritesheet 56frames_16
+  - first:
+      213: 2338420089810100997
+    second: golem ki casse la coru spritesheet 56frames_17
+  - first:
+      213: -8484115563867219391
+    second: golem ki casse la coru spritesheet 56frames_18
+  - first:
+      213: -1532552701191432904
+    second: golem ki casse la coru spritesheet 56frames_19
+  - first:
+      213: 5278086647884052455
+    second: golem ki casse la coru spritesheet 56frames_20
+  - first:
+      213: -6221642060094688118
+    second: golem ki casse la coru spritesheet 56frames_21
+  - first:
+      213: 4007167304464227717
+    second: golem ki casse la coru spritesheet 56frames_22
+  - first:
+      213: 2176714921565427217
+    second: golem ki casse la coru spritesheet 56frames_23
+  - first:
+      213: -6738986753767019010
+    second: golem ki casse la coru spritesheet 56frames_24
+  - first:
+      213: 1841559498512791406
+    second: golem ki casse la coru spritesheet 56frames_25
+  - first:
+      213: -83121120485777983
+    second: golem ki casse la coru spritesheet 56frames_26
+  - first:
+      213: 8950298061238500868
+    second: golem ki casse la coru spritesheet 56frames_27
+  - first:
+      213: -5983106705959560228
+    second: golem ki casse la coru spritesheet 56frames_28
+  - first:
+      213: -8666621420644054036
+    second: golem ki casse la coru spritesheet 56frames_29
+  - first:
+      213: -2153819816038238076
+    second: golem ki casse la coru spritesheet 56frames_30
+  - first:
+      213: -3392600225303451707
+    second: golem ki casse la coru spritesheet 56frames_31
+  - first:
+      213: 7034487271083791670
+    second: golem ki casse la coru spritesheet 56frames_32
+  - first:
+      213: 3960905766173405035
+    second: golem ki casse la coru spritesheet 56frames_33
+  - first:
+      213: 8905482834962872809
+    second: golem ki casse la coru spritesheet 56frames_34
+  - first:
+      213: -4669386985016094229
+    second: golem ki casse la coru spritesheet 56frames_35
+  - first:
+      213: 9193223888567674688
+    second: golem ki casse la coru spritesheet 56frames_36
+  - first:
+      213: 5136218096181560339
+    second: golem ki casse la coru spritesheet 56frames_37
+  - first:
+      213: -5770299732236059684
+    second: golem ki casse la coru spritesheet 56frames_38
+  - first:
+      213: -8938527678270817112
+    second: golem ki casse la coru spritesheet 56frames_39
+  - first:
+      213: 8685295398299266180
+    second: golem ki casse la coru spritesheet 56frames_40
+  - first:
+      213: 4444781427470089950
+    second: golem ki casse la coru spritesheet 56frames_41
+  - first:
+      213: 1913059150443676790
+    second: golem ki casse la coru spritesheet 56frames_42
+  - first:
+      213: 1464912034301449387
+    second: golem ki casse la coru spritesheet 56frames_43
+  - first:
+      213: -3446775609324688214
+    second: golem ki casse la coru spritesheet 56frames_44
+  - first:
+      213: 4936999345495947453
+    second: golem ki casse la coru spritesheet 56frames_45
+  - first:
+      213: 218486081913568508
+    second: golem ki casse la coru spritesheet 56frames_46
+  - first:
+      213: 4100538420912844317
+    second: golem ki casse la coru spritesheet 56frames_47
+  - first:
+      213: 1028634717661003825
+    second: golem ki casse la coru spritesheet 56frames_48
+  - first:
+      213: 5966863858527507103
+    second: golem ki casse la coru spritesheet 56frames_49
+  - first:
+      213: 4554021734320606599
+    second: golem ki casse la coru spritesheet 56frames_50
+  - first:
+      213: -8041301564884938463
+    second: golem ki casse la coru spritesheet 56frames_51
+  - first:
+      213: -7335411236891346140
+    second: golem ki casse la coru spritesheet 56frames_52
+  - first:
+      213: 5137884065442490650
+    second: golem ki casse la coru spritesheet 56frames_53
+  - first:
+      213: 2011981387079930659
+    second: golem ki casse la coru spritesheet 56frames_54
+  - first:
+      213: -2738446092041601640
+    second: golem ki casse la coru spritesheet 56frames_55
+  - first:
+      213: 4117676883412439783
+    second: golem ki casse la coru spritesheet 56frames_56
+  - first:
+      213: -1961546191960209601
+    second: golem ki casse la coru spritesheet 56frames_57
+  - first:
+      213: 4908548802528603081
+    second: golem ki casse la coru spritesheet 56frames_58
+  - first:
+      213: -1272018013141269172
+    second: golem ki casse la coru spritesheet 56frames_59
+  - first:
+      213: 9209197326101511305
+    second: golem ki casse la coru spritesheet 56frames_60
+  - first:
+      213: 8736591350756610377
+    second: golem ki casse la coru spritesheet 56frames_61
+  - first:
+      213: -3087493393076615755
+    second: golem ki casse la coru spritesheet 56frames_62
+  - first:
+      213: -4629039383481515469
+    second: golem ki casse la coru spritesheet 56frames_63
+  - first:
+      213: -6960782703001858423
+    second: golem ki casse la coru spritesheet 56frames_64
+  - first:
+      213: -8697093910648077503
+    second: golem ki casse la coru spritesheet 56frames_65
+  - first:
+      213: 6632680367086168877
+    second: golem ki casse la coru spritesheet 56frames_66
+  - first:
+      213: 2434855212752606376
+    second: golem ki casse la coru spritesheet 56frames_67
+  - first:
+      213: -1072952271330371687
+    second: golem ki casse la coru spritesheet 56frames_68
+  - first:
+      213: -3273379086252594772
+    second: golem ki casse la coru spritesheet 56frames_69
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: golem ki casse la coru spritesheet 56frames_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 53
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7672a37bf697b0970800000000000000
+      internalID: 8722198624055469927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem ki casse la coru spritesheet 56frames_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 0
+        width: 53
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f2e9720155dc960800000000000000
+      internalID: 7623843272080633659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem ki casse la coru spritesheet 56frames_2
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 0
+        width: 53
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70a5d17ec75f4860800000000000000
+      internalID: 7516322847289352318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem ki casse la coru spritesheet 56frames_3
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 0
+        width: 53
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc1bdf802ab484390800000000000000
+      internalID: -7833928392503348788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem ki casse la coru spritesheet 56frames_4
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 0
+        width: 53
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114f1c1a178629250800000000000000
+      internalID: 5949932894964282385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem ki casse la coru spritesheet 56frames_5
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 0
+        width: 53
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b639fb70e62d3c0800000000000000
+      internalID: -4336282511646430377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem ki casse la coru spritesheet 56frames_6
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 0
+        width: 53
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ee4386dcf790690800000000000000
+      internalID: -7635431173036642816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem ki casse la coru spritesheet 56frames_7
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 0
+        width: 53
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d332957cb1132a030800000000000000
+      internalID: 3504417455426052925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem ki casse la coru spritesheet 56frames_8
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 0
+        width: 53
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad920b6030193a70800000000000000
+      internalID: 8807088346439523759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem ki casse la coru spritesheet 56frames_9
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 0
+        width: 53
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a68594adc476775c0800000000000000
+      internalID: -4217788946231764886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem ki casse la coru spritesheet 56frames_10
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 0
+        width: 53
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b79fc73716e478e0800000000000000
+      internalID: -1696478172216846411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem ki casse la coru spritesheet 56frames_11
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 0
+        width: 53
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d034d104c0ad6ab0800000000000000
+      internalID: -5013174046488776487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem ki casse la coru spritesheet 56frames_12
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 0
+        width: 53
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa6ff5ce94d53720800000000000000
+      internalID: 2825398119636626080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem ki casse la coru spritesheet 56frames_13
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 0
+        width: 53
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c06bd1e3e98da6ae0800000000000000
+      internalID: -1555192547144518132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem ki casse la coru spritesheet 56frames_14
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 0
+        width: 53
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e590da7fffd8630800000000000000
+      internalID: 3931079488989388308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem ki casse la coru spritesheet 56frames_15
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 0
+        width: 53
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4947133ac30ed50800000000000000
+      internalID: 6764473311917544664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem ki casse la coru spritesheet 56frames_16
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 0
+        width: 53
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477276f1a4f5e4ed0800000000000000
+      internalID: -2427898377147046028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem ki casse la coru spritesheet 56frames_17
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 0
+        width: 53
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503a4c4aeacb37020800000000000000
+      internalID: 2338420089810100997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem ki casse la coru spritesheet 56frames_18
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 0
+        width: 53
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ad45e68dd524a80800000000000000
+      internalID: -8484115563867219391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem ki casse la coru spritesheet 56frames_19
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 0
+        width: 53
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8355be520774bbae0800000000000000
+      internalID: -1532552701191432904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem ki casse la coru spritesheet 56frames_20
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 0
+        width: 53
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e77cdc77d78f3940800000000000000
+      internalID: 5278086647884052455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem ki casse la coru spritesheet 56frames_21
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 0
+        width: 53
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a843d60928948a9a0800000000000000
+      internalID: -6221642060094688118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem ki casse la coru spritesheet 56frames_22
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 0
+        width: 53
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d562abe615c9730800000000000000
+      internalID: 4007167304464227717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem ki casse la coru spritesheet 56frames_23
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 0
+        width: 53
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 116133d30be353e10800000000000000
+      internalID: 2176714921565427217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem ki casse la coru spritesheet 56frames_24
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 0
+        width: 53
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd67ab804f4a72a0800000000000000
+      internalID: -6738986753767019010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem ki casse la coru spritesheet 56frames_25
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 0
+        width: 53
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e67f99d5b988e8910800000000000000
+      internalID: 1841559498512791406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem ki casse la coru spritesheet 56frames_26
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 0
+        width: 53
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cddc1408c1b8def0800000000000000
+      internalID: -83121120485777983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem ki casse la coru spritesheet 56frames_27
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 0
+        width: 53
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40efcfd7aa8d53c70800000000000000
+      internalID: 8950298061238500868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem ki casse la coru spritesheet 56frames_28
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 0
+        width: 53
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdbd50a962cb7fca0800000000000000
+      internalID: -5983106705959560228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem ki casse la coru spritesheet 56frames_29
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 0
+        width: 53
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb48b35cb9f9b780800000000000000
+      internalID: -8666621420644054036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem ki casse la coru spritesheet 56frames_30
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 0
+        width: 53
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488f7dae9481c12e0800000000000000
+      internalID: -2153819816038238076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem ki casse la coru spritesheet 56frames_31
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 0
+        width: 53
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7a0e1e1101be0d0800000000000000
+      internalID: -3392600225303451707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem ki casse la coru spritesheet 56frames_32
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 0
+        width: 53
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 635d4f917e48f9160800000000000000
+      internalID: 7034487271083791670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem ki casse la coru spritesheet 56frames_33
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 0
+        width: 53
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6fef8dfec6f7f630800000000000000
+      internalID: 3960905766173405035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem ki casse la coru spritesheet 56frames_34
+      rect:
+        serializedVersion: 2
+        x: 1802
+        y: 0
+        width: 53
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e9fc438471a69b70800000000000000
+      internalID: 8905482834962872809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem ki casse la coru spritesheet 56frames_35
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 0
+        width: 53
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1984fc641033fb0800000000000000
+      internalID: -4669386985016094229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem ki casse la coru spritesheet 56frames_36
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 0
+        width: 53
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04726ba3b64e49f70800000000000000
+      internalID: 9193223888567674688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem ki casse la coru spritesheet 56frames_37
+      rect:
+        serializedVersion: 2
+        x: 1961
+        y: 0
+        width: 53
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 314c5d74523874740800000000000000
+      internalID: 5136218096181560339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem ki casse la coru spritesheet 56frames_38
+      rect:
+        serializedVersion: 2
+        x: 2014
+        y: 0
+        width: 53
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdbb98447f6cbefa0800000000000000
+      internalID: -5770299732236059684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem ki casse la coru spritesheet 56frames_39
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 0
+        width: 53
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8acbba95f68f3f380800000000000000
+      internalID: -8938527678270817112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem ki casse la coru spritesheet 56frames_40
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 0
+        width: 53
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c66f8e52e588870800000000000000
+      internalID: 8685295398299266180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem ki casse la coru spritesheet 56frames_41
+      rect:
+        serializedVersion: 2
+        x: 2173
+        y: 0
+        width: 53
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edebb98a8290fad30800000000000000
+      internalID: 4444781427470089950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem ki casse la coru spritesheet 56frames_42
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 0
+        width: 53
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6748188592d8c8a10800000000000000
+      internalID: 1913059150443676790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem ki casse la coru spritesheet 56frames_43
+      rect:
+        serializedVersion: 2
+        x: 2279
+        y: 0
+        width: 53
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba49bb7dbb9645410800000000000000
+      internalID: 1464912034301449387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem ki casse la coru spritesheet 56frames_44
+      rect:
+        serializedVersion: 2
+        x: 2332
+        y: 0
+        width: 53
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaca8b958d79a20d0800000000000000
+      internalID: -3446775609324688214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem ki casse la coru spritesheet 56frames_45
+      rect:
+        serializedVersion: 2
+        x: 2385
+        y: 0
+        width: 53
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db83f945fbeb38440800000000000000
+      internalID: 4936999345495947453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem ki casse la coru spritesheet 56frames_46
+      rect:
+        serializedVersion: 2
+        x: 2438
+        y: 0
+        width: 53
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc33d41fe7380300800000000000000
+      internalID: 218486081913568508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem ki casse la coru spritesheet 56frames_47
+      rect:
+        serializedVersion: 2
+        x: 2491
+        y: 0
+        width: 53
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ee95ed7f908e830800000000000000
+      internalID: 4100538420912844317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem ki casse la coru spritesheet 56frames_48
+      rect:
+        serializedVersion: 2
+        x: 2544
+        y: 0
+        width: 53
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13081d563d1764e00800000000000000
+      internalID: 1028634717661003825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem ki casse la coru spritesheet 56frames_49
+      rect:
+        serializedVersion: 2
+        x: 2597
+        y: 0
+        width: 53
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9216a6c01f8ec250800000000000000
+      internalID: 5966863858527507103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem ki casse la coru spritesheet 56frames_50
+      rect:
+        serializedVersion: 2
+        x: 2650
+        y: 0
+        width: 53
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d869d93a2233f30800000000000000
+      internalID: 4554021734320606599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem ki casse la coru spritesheet 56frames_51
+      rect:
+        serializedVersion: 2
+        x: 2703
+        y: 0
+        width: 53
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1219d35d4de876090800000000000000
+      internalID: -8041301564884938463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem ki casse la coru spritesheet 56frames_52
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 0
+        width: 53
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42bbeaf3852633a90800000000000000
+      internalID: -7335411236891346140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem ki casse la coru spritesheet 56frames_53
+      rect:
+        serializedVersion: 2
+        x: 2809
+        y: 0
+        width: 53
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a19e6d9f55e6d4740800000000000000
+      internalID: 5137884065442490650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem ki casse la coru spritesheet 56frames_54
+      rect:
+        serializedVersion: 2
+        x: 2862
+        y: 0
+        width: 53
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 323d89f596efbeb10800000000000000
+      internalID: 2011981387079930659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem ki casse la coru spritesheet 56frames_55
+      rect:
+        serializedVersion: 2
+        x: 2915
+        y: 0
+        width: 53
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89dbd47c9c51ff9d0800000000000000
+      internalID: -2738446092041601640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem ki casse la coru spritesheet 56frames_56
+      rect:
+        serializedVersion: 2
+        x: 2968
+        y: 0
+        width: 53
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2d2af1f4de42930800000000000000
+      internalID: 4117676883412439783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem ki casse la coru spritesheet 56frames_57
+      rect:
+        serializedVersion: 2
+        x: 3021
+        y: 0
+        width: 53
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3701b1912037c4e0800000000000000
+      internalID: -1961546191960209601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem ki casse la coru spritesheet 56frames_58
+      rect:
+        serializedVersion: 2
+        x: 3074
+        y: 0
+        width: 53
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cbe269112bae1440800000000000000
+      internalID: 4908548802528603081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem ki casse la coru spritesheet 56frames_59
+      rect:
+        serializedVersion: 2
+        x: 3127
+        y: 0
+        width: 53
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4501d24b52e85ee0800000000000000
+      internalID: -1272018013141269172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem ki casse la coru spritesheet 56frames_60
+      rect:
+        serializedVersion: 2
+        x: 3180
+        y: 0
+        width: 53
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98cf1c8fc24adcf70800000000000000
+      internalID: 9209197326101511305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem ki casse la coru spritesheet 56frames_61
+      rect:
+        serializedVersion: 2
+        x: 3233
+        y: 0
+        width: 53
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94119998b8b9e3970800000000000000
+      internalID: 8736591350756610377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem ki casse la coru spritesheet 56frames_62
+      rect:
+        serializedVersion: 2
+        x: 3286
+        y: 0
+        width: 53
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b58d430e150725d0800000000000000
+      internalID: -3087493393076615755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem ki casse la coru spritesheet 56frames_63
+      rect:
+        serializedVersion: 2
+        x: 3339
+        y: 0
+        width: 53
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3328a48d43952cfb0800000000000000
+      internalID: -4629039383481515469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem ki casse la coru spritesheet 56frames_64
+      rect:
+        serializedVersion: 2
+        x: 3392
+        y: 0
+        width: 53
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e04ece205566f90800000000000000
+      internalID: -6960782703001858423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem ki casse la coru spritesheet 56frames_65
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 0
+        width: 53
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143cb9dda27bd4780800000000000000
+      internalID: -8697093910648077503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem ki casse la coru spritesheet 56frames_66
+      rect:
+        serializedVersion: 2
+        x: 3498
+        y: 0
+        width: 53
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2be0e407a30c0c50800000000000000
+      internalID: 6632680367086168877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem ki casse la coru spritesheet 56frames_67
+      rect:
+        serializedVersion: 2
+        x: 3551
+        y: 0
+        width: 53
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a490a36ae75ac120800000000000000
+      internalID: 2434855212752606376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem ki casse la coru spritesheet 56frames_68
+      rect:
+        serializedVersion: 2
+        x: 3604
+        y: 0
+        width: 53
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997976e089b1c11f0800000000000000
+      internalID: -1072952271330371687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem ki casse la coru spritesheet 56frames_69
+      rect:
+        serializedVersion: 2
+        x: 3657
+        y: 0
+        width: 53
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9a8bc601f9292d0800000000000000
+      internalID: -3273379086252594772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

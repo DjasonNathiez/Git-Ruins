@@ -43,6 +43,7 @@ public class Purification : MonoBehaviour
         //Lance l'animation de purification du Golem
         playerAnimator.SetBool("purification", true);
         yield return new WaitForSeconds(3.5f);
+        playerAnimator.SetBool("purification", false);
 
         //Lance l'animation de départ de la Corruption
         corruAnimator.SetBool("purification", true);
